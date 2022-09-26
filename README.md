@@ -40,3 +40,6 @@ Twitter
 Youtube
 - [公視台語台新聞](https://www.youtube.com/channel/UCNQ4H3GxXOpvXEDSSd7NVOg)
 - [公視台語台網路直播(部分節目無版權) | Tai-gi Live](https://www.youtube.com/watch?v=cnYQ_z7QfxE)
+
+論壇
+- [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)
