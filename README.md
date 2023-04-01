@@ -1,15 +1,15 @@
 # learn-tai-gi
 
-找字
+揣字 tshuē-jī
 - [ChhoeTaigi 找台語](https://chhoe.taigi.info/)
 - [臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/)
 - [iTaigi 愛台語](https://itaigi.tw/)
 
-輸入法
+輸入法 phah-jī-huat
 - [PhahTaigi 台語輸入法 (iOS)](https://apps.apple.com/tw/app/phahtaigi-%E5%8F%B0%E8%AA%9E%E8%BC%B8%E5%85%A5%E6%B3%95/id1455093650)
 - [FHL Taigi-Hakka IME 信望愛台語客語輸入法](https://taigi.fhl.net/TaigiIME/)
 
-能力認證
+認證考試 jīn-tsìng khó-tshì
 - [閩南語語言能力認證考試](https://blgjts.moe.edu.tw/tmt/index.php)
 - [全民台語認證](https://ctlt.twl.ncku.edu.tw/gtpt/index.html)
 
@@ -18,8 +18,16 @@ Podcast
 - [牽囡仔 ê 手，來聽囡仔古](https://open.spotify.com/show/6aMEHrQ0zwCU3bDZeUQaEl?si=b581ca70cf2440db)
 - [台灣人台灣事](https://open.spotify.com/show/1riqgeewHDTr586irRkE44?si=e84f566912724a3c)
 - [公視台語台PODCAST](https://open.spotify.com/show/2CBb1KwU0S7AEudvybK9Wt?si=0825391294784b83)
+- [故事雜菜羹](https://open.spotify.com/show/24eLkVzQYkkiUF4AR8TVvs?si=7ae52ce05a3a4db6)
+- [土豆仁與圓仔花](https://open.spotify.com/show/5jNPY2plC4ar2C4KZA1jWo?si=fa11ed99b43b4c46)
+- [妮妮說故事](https://open.spotify.com/show/3EbzF0hlVw8ffLRuX5bwIs?si=e1902547a73b4277)
+- [阮劇團 Our Theatre 這聲好啊！](https://open.spotify.com/show/41tPh78QVIx4HkA3Xh42o0?si=ac6b6f05330b42a5)
+- [豪洨亭仔跤](https://open.spotify.com/show/3J5bm7p2F6gmMYL2zJOVTl?si=3c354d06f9384ed1)
+- [邊友愛講話 pîng-iú ài kóng-uē](https://open.spotify.com/show/1839iTni8QXQ7zR6HYoE4G?si=c7d6bbd9b13d44c8)
+- [肥宅熊的台語日常雜記 Bear’s Taiwanese talk](https://open.spotify.com/show/60ixueWwU5etuCtVqkzNcN?si=84d390921ef6429c)
+- [尪某答嘴鼓](https://open.spotify.com/show/4SSexPH4k9j3ofj3ci2Mtf?si=75e16e3956304941)
 
-Facebook
+Facebook 面冊 Bīn-tsh
 - [出外講台語 Chhut-gōa kóng Tâi-gí](https://www.facebook.com/ChhutGoaKongTaiGi/)
 - [台語call雞精](https://www.facebook.com/calltsitsin/)
 - [阿勇台語 A'ióng Tâigí](https://www.facebook.com/AiongTaigi/)
@@ -46,5 +54,9 @@ Youtube
 - [公視台語台新聞](https://www.youtube.com/channel/UCNQ4H3GxXOpvXEDSSd7NVOg)
 - [公視台語台網路直播(部分節目無版權) | Tai-gi Live](https://www.youtube.com/watch?v=cnYQ_z7QfxE)
 
-論壇
+論壇 lūn-tuânn
 - [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)
+
+台語書
+- [一午二紅沙，三鯧四馬鮫：台灣海產的身世](https://www.books.com.tw/products/0010947895)
+- [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717?sloc=main)
