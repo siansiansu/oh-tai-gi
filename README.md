@@ -11,6 +11,7 @@
 
 能力認證
 - [閩南語語言能力認證考試](https://blgjts.moe.edu.tw/tmt/index.php)
+- [全民台語認證](https://ctlt.twl.ncku.edu.tw/gtpt/index.html)
 
 Podcast
 - [做伙來講台語、SŃG KAH 烏MÀMÀ！](https://open.spotify.com/show/7HZ4PA6wmN44ge4fIro09I?si=290774b0536d4b02)
@@ -29,6 +30,10 @@ Facebook
 - [出來講台語 Tshut-lâi kóng Tâi-gí](https://www.facebook.com/%E5%87%BA%E4%BE%86%E8%AC%9B%E5%8F%B0%E8%AA%9E-Tshut-l%C3%A2i-k%C3%B3ng-T%C3%A2i-g%C3%AD-106433877836250/)
 - [Tâi-gí Niau 台語貓](https://www.facebook.com/TaigiNiau)
 - [財團法人李江却台語文教基金會](https://www.facebook.com/lkktgb)
+- [鏡新聞主播 黃筱純](https://www.facebook.com/huanghsiaochun0520)
+- [coodychiu](https://www.facebook.com/coodychiu)
+- [麒麟鹿臺語](https://www.facebook.com/profile.php?id=100090419670937)
+- [水獺媽媽巧慧與她的小夥伴](https://www.facebook.com/ottermamachiao)
 
 Twitter
 - [@am3kongchiau2](https://twitter.com/am3kongchiau2)
