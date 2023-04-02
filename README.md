@@ -39,7 +39,6 @@ tsia sī guá tī o̍h Tâi-gí sî sóo sú-iōng ê ha̍k-si̍p chu-guân tshi
 - [Tâi-gí Niau 台語貓](https://www.facebook.com/TaigiNiau)
 - [coodychiu](https://www.facebook.com/coodychiu)
 - [公視台語台-寶島鼓仔燈](https://www.facebook.com/%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0-%E5%AF%B6%E5%B3%B6%E9%BC%93%E4%BB%94%E7%87%88-427821587771664/)
-- [出來講台語 Tshut-lâi kóng Tâi-gí](https://www.facebook.com/%E5%87%BA%E4%BE%86%E8%AC%9B%E5%8F%B0%E8%AA%9E-Tshut-l%C3%A2i-k%C3%B3ng-T%C3%A2i-g%C3%AD-106433877836250/)
 - [出外講台語 Chhut-gōa kóng Tâi-gí](https://www.facebook.com/ChhutGoaKongTaiGi/)
 - [台語call雞精](https://www.facebook.com/calltsitsin/)
 - [台語tsín袂輾轉 Easy Taiwanese](https://www.facebook.com/easytaiwanese)
