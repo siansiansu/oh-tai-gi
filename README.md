@@ -52,12 +52,14 @@ tsia sī guá tī o̍h Tâi-gí sî sóo sú-iōng ê ha̍k-si̍p chu-guân tshi
 
 ## Instagram
 
+- [Soo Bîn-hiân](https://www.instagram.com/siansian.bird/)
 - [公視台語台/公視臺語台](https://www.instagram.com/kongsitaigitai)
 - [出外講台語](https://www.instagram.com/chhut_goa_kong_tai_gi/)
 - [台南妹仔教你講台語](https://instagram.com/a_yo__oy_a)
 - [台語tsín袂輾轉🐢](https://www.instagram.com/easy_taiwanese/)
 - [台語巢計畫](https://www.instagram.com/taigi_tsau)
 - [台語日常](https://www.instagram.com/taigijitsiong/)
+- [洛津粟鳥仔丨鹿港腔小教室](https://www.instagram.com/lok_tin_sparrow/)
 - [講台語過日 kóng Tâi-gí kuè-ji̍t](https://www.instagram.com/taigi_kuejit/)
 - [逐工一幅天文圖 Apod Taigi](https://www.instagram.com/apod_taigi/)
 - [逐工講台語](https://www.instagram.com/takkangkongtaigi/)
