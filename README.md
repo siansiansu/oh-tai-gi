@@ -1,7 +1,7 @@
 # Oh-tai-gi
 
-遮是我佇學台語時所使用的學習資源清單。  
-tsia sī guá tī o̍h Tâi-gí sî sóo sú-iōng ê ha̍k-si̍p chu-guân tshing-tuann。
+遮是我佇學台語時所參考的學習資源清單，你若有建議的教材，歡迎使用 Pull Request 來補充不足的部分。  
+tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tshing-tuann，lí nā-ū kiàn-gī ê kàu-tsâi，huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn。
 
 ## 揣字 Tshuē-jī
 
