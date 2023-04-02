@@ -48,6 +48,19 @@
 - [風魅緋孤 - 台語文僧侶 wololo](https://www.facebook.com/fumi420/)
 - [麒麟鹿臺語](https://www.facebook.com/profile.php?id=100090419670937)  
 
+## Instagram
+
+- [公視台語台/公視臺語台](https://www.instagram.com/kongsitaigitai)
+- [出外講台語](https://www.instagram.com/chhut_goa_kong_tai_gi/)
+- [台南妹仔教你講台語](https://instagram.com/a_yo__oy_a)
+- [台語tsín袂輾轉🐢](https://www.instagram.com/easy_taiwanese/)
+- [台語巢計畫](https://www.instagram.com/taigi_tsau)
+- [台語日常](https://www.instagram.com/taigijitsiong/)
+- [講台語過日 kóng Tâi-gí kuè-ji̍t](https://www.instagram.com/taigi_kuejit/)
+- [逐工一幅天文圖 Apod Taigi](https://www.instagram.com/apod_taigi/)
+- [逐工講台語](https://www.instagram.com/takkangkongtaigi/)
+- [阿東的哩哩叩叩 | 台語小教室](https://www.instagram.com/lilicoco_tong/)
+
 ## Twitter
 
 - [@AhongTaioan](https://twitter.com/AhongTaioan)
@@ -68,4 +81,12 @@
 ## 台語書 Tâi-gí-tsheh
 
 - [一午二紅沙，三鯧四馬鮫：台灣海產的身世](https://www.books.com.tw/products/0010947895)
+- [台語原來是這樣](https://www.books.com.tw/products/0010666107)
+- [台語好日子：學台語的第一本書](https://www.books.com.tw/products/0010766749)
+- [台語心花開：學台文超入門](https://www.books.com.tw/products/0010924124)
+- [台語每日一句─落台語俗諺很簡單：學台語俗諺，參加閩南語競賽和認證更加分！](https://www.books.com.tw/products/0010920395)
+- [台語的鄉土口味—俗諺、俚語](https://www.books.com.tw/products/0010901557)
+- [我咧唱歌](https://www.books.com.tw/products/0010867303)
 - [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717?sloc=main)
+- [語言學家解破台語](https://www.books.com.tw/products/0010927275)
+- [高雄二二八](https://www.books.com.tw/products/0010876101)
