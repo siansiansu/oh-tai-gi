@@ -1,5 +1,8 @@
 # Oh-tai-gi
 
+遮是我佇學台語時所使用的學習資源清單。  
+tsia sī guá tī o̍h Tâi-gí sî sóo sú-iōng ê ha̍k-si̍p chu-guân tshing-tuann。
+
 ## 揣字 Tshuē-jī
 
 - [ChhoeTaigi 找台語](https://chhoe.taigi.info/)
