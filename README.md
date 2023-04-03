@@ -62,6 +62,7 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [大人ê台語/gilik.tw](https://www.facebook.com/gilik.tw/)。
 - [失控的台語課](https://www.facebook.com/taigikho)。
 - [島嶼ê台語車幫 (Tó-sū ê Tâi-gí Chhia-pang)](https://www.facebook.com/TSTGCP)。
+- [母語ê/gǎi醫學](https://www.facebook.com/MothertongueMed)。
 - [水獺媽媽巧慧與她的小夥伴](https://www.facebook.com/ottermamachiao)。
 - [牽囡仔ê手 行台語ê路](https://www.facebook.com/taigiloo)。
 - [王昭華](https://www.facebook.com/cit.lui.hoe)。
