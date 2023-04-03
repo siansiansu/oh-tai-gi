@@ -36,17 +36,34 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 ## Facebook 面冊 Bīn-tsh
 
+- [ChhoeTaigi 找台語 - 台語辭典、字詞資料庫](https://www.facebook.com/ChhoeTaigi)。
 - [Tâi-gí Niau 台語貓](https://www.facebook.com/TaigiNiau)。
+- [Tâi-gí lāu-su 台語老蘇](https://www.facebook.com/TaigiLausu)。
 - [coodychiu](https://www.facebook.com/coodychiu)。
+- [做伙來講台語、sńg kah 烏 mà-mà 好無？](https://www.facebook.com/OmamaTaioan228)。
 - [公視台語台-寶島鼓仔燈](https://www.facebook.com/%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0-%E5%AF%B6%E5%B3%B6%E9%BC%93%E4%BB%94%E7%87%88-427821587771664/)。
+- [公視台語台](https://www.facebook.com/ptstaiginews)。
 - [出外講台語 Chhut-gōa kóng Tâi-gí](https://www.facebook.com/ChhutGoaKongTaiGi/)。
+- [台南妹仔教你講台語](https://www.facebook.com/SpeaktaiwanesewithAYO)。
+- [台大台語文社-ntutgbs](https://www.facebook.com/ntutgbs)。
+- [台語call雞精](https://www.facebook.com/calltsitsin)。
 - [台語call雞精](https://www.facebook.com/calltsitsin/)。
 - [台語tsín袂輾轉 Easy Taiwanese](https://www.facebook.com/easytaiwanese)。
+- [台語有影](https://www.facebook.com/Taigi.Cinema/)。
+- [台語語法冷知識](https://www.facebook.com/TaiwaneseSyntax)。
+- [咱kóng台語](https://www.facebook.com/LanKongTaigi/)。
+- [嘉義囡仔講台語](https://www.facebook.com/kagigina.kongtaigi)。
+- [塗豆仁學台語](https://www.facebook.com/Taigipeanut)。
 - [大人ê台語/gilik.tw](https://www.facebook.com/gilik.tw/)。
+- [失控的台語課](https://www.facebook.com/taigikho)。
+- [島嶼ê台語車幫 (Tó-sū ê Tâi-gí Chhia-pang)](https://www.facebook.com/TSTGCP)。
 - [水獺媽媽巧慧與她的小夥伴](https://www.facebook.com/ottermamachiao)。
+- [牽囡仔ê手 行台語ê路](https://www.facebook.com/taigiloo)。
+- [米粉老師的台語教室](https://www.facebook.com/bihuntaigiteacher)。
 - [財團法人李江却台語文教基金會](https://www.facebook.com/lkktgb)。
 - [鏡新聞主播 黃筱純](https://www.facebook.com/huanghsiaochun0520)。
 - [阿勇台語 A'ióng Tâigí](https://www.facebook.com/AiongTaigi/)。
+- [阿娘的話-消失中的台語](https://www.facebook.com/profile.php?id=100063798075831)。
 - [風魅緋孤 - 台語文僧侶 wololo](https://www.facebook.com/fumi420/)。
 - [麒麟鹿臺語](https://www.facebook.com/profile.php?id=100090419670937)。
 
@@ -79,12 +96,14 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [Tiuⁿ Tiat-ûi｜デュン　デッウイ](https://twitter.com/AhongTaioan)。
 - [Tó-sū ê Tâi-gí Chhia-pang 島嶼ê台語車幫](https://twitter.com/TSTGCP)。
 - [Àm-kong-chiáu暗光鳥-台語有字-抗中保台](https://twitter.com/am3kongchiau2)。
+- [Êng-an](https://twitter.com/satsangdance)。
 - [Ì-THUÂN 意傳科技](https://twitter.com/Ithuan_Tw)。
 - [公視台語台/公視臺語台](https://twitter.com/ptstaigi)。
 - [台文博覽會 TÂI-BÛN EXPO](https://twitter.com/taibunexpo)。
 - [台文通訊：30冬紀念特刊](https://twitter.com/tbths30tang)。
-- [成大台語囡仔古](https://twitter.com/TaigiGinakoo)
+- [成大台語囡仔古](https://twitter.com/TaigiGinakoo)。
 - [逐工一幅天文圖 APOD Taiwanese](https://twitter.com/ApodTaigi)。
+- [A-bêng](https://twitter.com/beng_ming)。
 
 ## Youtube
 
@@ -94,6 +113,7 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 ## 論壇 Lūn-tuânn
 
 - [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)。
+- [對囡仔講台語](https://www.facebook.com/groups/tuiginakongtaigu/)。
 
 ## 台語書 Tâi-gí-tsheh
 
