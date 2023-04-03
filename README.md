@@ -41,6 +41,7 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [Tâi-gí lāu-su 台語老蘇](https://www.facebook.com/TaigiLausu)。
 - [coodychiu](https://www.facebook.com/coodychiu)。
 - [做伙來講台語、sńg kah 烏 mà-mà 好無？](https://www.facebook.com/OmamaTaioan228)。
+- [做伙破讀講臺語](https://www.facebook.com/letstalkintaiwanese)。
 - [公視台語台-寶島鼓仔燈](https://www.facebook.com/%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0-%E5%AF%B6%E5%B3%B6%E9%BC%93%E4%BB%94%E7%87%88-427821587771664/)。
 - [公視台語台](https://www.facebook.com/ptstaiginews)。
 - [公視台語台_大港ê台灣](https://www.facebook.com/dagangetaiwan)。
