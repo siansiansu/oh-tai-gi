@@ -54,6 +54,7 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [台語有影](https://www.facebook.com/Taigi.Cinema/)。
 - [台語海龜湯](https://www.facebook.com/profile.php?id=100069641407677)。
 - [台語語法冷知識](https://www.facebook.com/TaiwaneseSyntax)。
+- [吳國禎。講新聞、說歌詩](https://www.facebook.com/taiwanesesongs)。
 - [咱kóng台語](https://www.facebook.com/LanKongTaigi/)。
 - [嘉義囡仔講台語](https://www.facebook.com/kagigina.kongtaigi)。
 - [塗豆仁學台語](https://www.facebook.com/Taigipeanut)。
@@ -63,6 +64,7 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [島嶼ê台語車幫 (Tó-sū ê Tâi-gí Chhia-pang)](https://www.facebook.com/TSTGCP)。
 - [水獺媽媽巧慧與她的小夥伴](https://www.facebook.com/ottermamachiao)。
 - [牽囡仔ê手 行台語ê路](https://www.facebook.com/taigiloo)。
+- [王昭華](https://www.facebook.com/cit.lui.hoe)。
 - [米粉老師的台語教室](https://www.facebook.com/bihuntaigiteacher)。
 - [財團法人李江却台語文教基金會](https://www.facebook.com/lkktgb)。
 - [逐日一條台語歌](https://www.facebook.com/ataiwanesesongaday)。
@@ -95,6 +97,7 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 ## Twitter
 
+- [A-bêng](https://twitter.com/beng_ming)。
 - [Blues🟩BuLùSuh🐳Siá-Tâi-bûn](https://twitter.com/blues__tw?s=21)。
 - [Hena Ma](https://twitter.com/HenaMa3)。
 - [Pofat kóng code](https://twitter.com/pofat_kongcode)。
@@ -108,7 +111,6 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [台文通訊：30冬紀念特刊](https://twitter.com/tbths30tang)。
 - [成大台語囡仔古](https://twitter.com/TaigiGinakoo)。
 - [逐工一幅天文圖 APOD Taiwanese](https://twitter.com/ApodTaigi)。
-- [A-bêng](https://twitter.com/beng_ming)。
 
 ## Youtube
 
@@ -127,8 +129,17 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [台語好日子：學台語的第一本書](https://www.books.com.tw/products/0010766749)。
 - [台語心花開：學台文超入門](https://www.books.com.tw/products/0010924124)。
 - [台語每日一句─落台語俗諺很簡單：學台語俗諺，參加閩南語競賽和認證更加分！](https://www.books.com.tw/products/0010920395)。
+- [台語現代小說選](https://www.books.com.tw/products/0010925436)。
 - [台語的鄉土口味—俗諺、俚語](https://www.books.com.tw/products/0010901557)。
 - [我咧唱歌](https://www.books.com.tw/products/0010867303)。
 - [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717)。
 - [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
 - [高雄二二八](https://www.books.com.tw/products/0010876101)。
+
+## 台語歌 Tâi-gí-kua
+
+- [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=fd14f2b1f5354751)。
+
+## 動畫
+
+- [[教育部閩南語動畫](https://twbangga.moe.edu.tw/)。
