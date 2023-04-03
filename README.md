@@ -43,17 +43,20 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [做伙來講台語、sńg kah 烏 mà-mà 好無？](https://www.facebook.com/OmamaTaioan228)。
 - [公視台語台-寶島鼓仔燈](https://www.facebook.com/%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0-%E5%AF%B6%E5%B3%B6%E9%BC%93%E4%BB%94%E7%87%88-427821587771664/)。
 - [公視台語台](https://www.facebook.com/ptstaiginews)。
+- [公視台語台_大港ê台灣](https://www.facebook.com/dagangetaiwan)。
 - [出外講台語 Chhut-gōa kóng Tâi-gí](https://www.facebook.com/ChhutGoaKongTaiGi/)。
 - [台南妹仔教你講台語](https://www.facebook.com/SpeaktaiwanesewithAYO)。
 - [台大台語文社-ntutgbs](https://www.facebook.com/ntutgbs)。
 - [台語call雞精](https://www.facebook.com/calltsitsin)。
-- [台語call雞精](https://www.facebook.com/calltsitsin/)。
 - [台語tsín袂輾轉 Easy Taiwanese](https://www.facebook.com/easytaiwanese)。
+- [台語嘛會通](https://www.facebook.com/profile.php?id=100066598714569)。
 - [台語有影](https://www.facebook.com/Taigi.Cinema/)。
+- [台語海龜湯](https://www.facebook.com/profile.php?id=100069641407677)。
 - [台語語法冷知識](https://www.facebook.com/TaiwaneseSyntax)。
 - [咱kóng台語](https://www.facebook.com/LanKongTaigi/)。
 - [嘉義囡仔講台語](https://www.facebook.com/kagigina.kongtaigi)。
 - [塗豆仁學台語](https://www.facebook.com/Taigipeanut)。
+- [大人ê台語/gilik.tw](https://www.facebook.com/gilik.tw)。
 - [大人ê台語/gilik.tw](https://www.facebook.com/gilik.tw/)。
 - [失控的台語課](https://www.facebook.com/taigikho)。
 - [島嶼ê台語車幫 (Tó-sū ê Tâi-gí Chhia-pang)](https://www.facebook.com/TSTGCP)。
@@ -61,8 +64,9 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [牽囡仔ê手 行台語ê路](https://www.facebook.com/taigiloo)。
 - [米粉老師的台語教室](https://www.facebook.com/bihuntaigiteacher)。
 - [財團法人李江却台語文教基金會](https://www.facebook.com/lkktgb)。
+- [逐日一條台語歌](https://www.facebook.com/ataiwanesesongaday)。
 - [鏡新聞主播 黃筱純](https://www.facebook.com/huanghsiaochun0520)。
-- [阿勇台語 A'ióng Tâigí](https://www.facebook.com/AiongTaigi/)。
+- [阿勇台語 A'ióng Tâigí](https://www.facebook.com/AiongTaigi)。
 - [阿娘的話-消失中的台語](https://www.facebook.com/profile.php?id=100063798075831)。
 - [風魅緋孤 - 台語文僧侶 wololo](https://www.facebook.com/fumi420/)。
 - [麒麟鹿臺語](https://www.facebook.com/profile.php?id=100090419670937)。
