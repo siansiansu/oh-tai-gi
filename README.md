@@ -97,6 +97,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [逐工講台語](https://www.instagram.com/takkangkongtaigi/)。
 - [鄭順聰](https://www.instagram.com/jinsingkhahsutsitkusi/)。
 - [阿東的哩哩叩叩 | 台語小教室](https://www.instagram.com/lilicoco_tong/)。
+- [rinriringo](https://instagram.com/rinriringo)。
 
 ## Twitter
 
@@ -167,9 +168,9 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 ## 動畫 Tōng-uē
 
-- [[教育部閩南語動畫](https://twbangga.moe.edu.tw/)。
+- [教育部閩南語動畫](https://twbangga.moe.edu.tw/)。
 
-## 網站 bāng-tsām
+## 網站 Bāng-tsām
 
 - [歌仔冊語唸歌 - 國立台灣大學數位典藏館](https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/page/home)。
 - [台語文記憶](http://210.240.194.97/memory/TGB/mowt.asp)。
