@@ -1,7 +1,7 @@
 # Oh-tai-gi
 
 遮是我佇學台語時所參考的學習資源清單，你若有建議的教材，歡迎使用 Pull Request 來補充不足的部分，抑是留言佮我講，多謝 🙇‍♂️！  
-tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tshing-tuann，lí nā-ū kiàn-gī ê kàu-tsâi，huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn，ia̍h-sī liû-giân kah guá kóng，to-siā 🙇‍♂️！
+Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī liû-giân kah guá kóng, to-siā 🙇‍♂️!
 
 ## 揣字 Tshuē-jī
 
@@ -13,6 +13,7 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 - [FHL Taigi-Hakka IME 信望愛台語客語輸入法](https://taigi.fhl.net/TaigiIME/)。
 - [PhahTaigi 台語輸入法 (iOS)](https://apps.apple.com/tw/app/phahtaigi-%E5%8F%B0%E8%AA%9E%E8%BC%B8%E5%85%A5%E6%B3%95/id1455093650)。
+- [意傳台文輸入法](https://sujiphuat.ithuan.tw/)
 
 ## 認證考試 Jīn-tsìng Khó-tshì
 
@@ -33,8 +34,9 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [豪洨亭仔跤](https://open.spotify.com/show/3J5bm7p2F6gmMYL2zJOVTl?si=3c354d06f9384ed1)。
 - [邊友愛講話 pîng-iú ài kóng-uē](https://open.spotify.com/show/1839iTni8QXQ7zR6HYoE4G?si=c7d6bbd9b13d44c8)。
 - [阮劇團 Our Theatre 這聲好啊！](https://open.spotify.com/show/41tPh78QVIx4HkA3Xh42o0?si=ac6b6f05330b42a5)。
+- [亞特聊聊天](https://open.spotify.com/show/102SpIisn4mOLCvtc1yV0Q?si=e977a536329d4f81)。
 
-## Facebook 面冊 Bīn-tsh
+## Facebook 面冊 Bīn-tsheh
 
 - [ChhoeTaigi 找台語 - 台語辭典、字詞資料庫](https://www.facebook.com/ChhoeTaigi)。
 - [Tâi-gí Niau 台語貓](https://www.facebook.com/TaigiNiau)。
@@ -117,11 +119,28 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 - [公視台語台新聞](https://www.youtube.com/channel/UCNQ4H3GxXOpvXEDSSd7NVOg)。
 - [公視台語台網路直播(部分節目無版權) | Tai-gi Live](https://www.youtube.com/watch?v=cnYQ_z7QfxE)。
+- [🍵 親戚不計較 火熱跟播中](https://www.youtube.com/playlist?list=PL02zpjjwMEjpxvDiFaLdTLyvcjto81O9r)。
+- [林昶佐 Freddy Lim](https://www.youtube.com/@limfreddy)。
+- [台南妹仔教你講台語](https://www.youtube.com/channel/UCAEWlYbdwc2d7lAr9FUNf-g)。
+- [足英台三聲道磅米芳](https://www.youtube.com/channel/UCUUwc_MNOZdwssxvt9U1d0g)。
+- [WaWa TV](https://www.youtube.com/c/WaWaTV/about)。
+- [郭玟成](https://www.youtube.com/channel/UCy0i45vRC278tnKz51gtBUg)。
+- [華視台語頻道](https://www.youtube.com/c/華視台語頻道)。
+- [民視台灣學堂](https://www.youtube.com/channel/UC1uiz8Yg9vqDIMuZg-QtbDg)。
+- [公視台語台 逐工一句](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVgHumZgDjIGUsjx54VIDRn)。
+- 公視台語台 解文說字（[2019](https://www.youtube.com/playlist?list=PL9X_7mTn8zvXgzFo3UQFwc00OrtKUTh4h)、[2020上](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVCQTRjHF47JKpJhotMGTGn)、[2020下](https://www.youtube.com/playlist?list=PL9X_7mTn8zvXFrlHlOcMUr-zPyJ0QwBH4)、[2021](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVJoACabYZef464RsUd8uC2)、[2022](https://www.youtube.com/playlist?list=PL9X_7mTn8zvUeqQVCiHrn36J35cFsjPP7)）。
+- [公視台語台 寶島鼓仔燈](https://www.youtube.com/playlist?list=PL9X_7mTn8zvWg9cVSt2T8hjzUnyHK4wdz)。
+- [【民視台灣學堂】講台語當著時](https://www.youtube.com/playlist?list=PLe8vfIFNtjRcbTvj_qwwwxbaaeIukdZTE)。
+- [【民視台灣學堂】台語講世事](https://www.youtube.com/playlist?list=PLe8vfIFNtjRdtsPxY3r-Q644ipqw9bFKC)。
+- [華視台語頻道【台語tsin輾轉】](https://www.youtube.com/playlist?list=PLBorC_Ux-N44_JT5t35KjbNAy9OyCVn5B)。
+- [華視台語頻道【台語字 珍趣味】](https://www.youtube.com/playlist?list=PLBorC_Ux-N46FMMIqeABuLQA9Aa3Kk2Rb)。
+- [台文博覽會 TÂI-BÛN EXPO](https://www.youtube.com/@tai-bunexpo1021)。
 
 ## 論壇 Lūn-tuânn
 
 - [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)。
 - [對囡仔講台語](https://www.facebook.com/groups/tuiginakongtaigu/)。
+- [臺語社](https://www.facebook.com/groups/120852554658610)。
 
 ## 台語書 Tâi-gí-tsheh
 
@@ -136,11 +155,24 @@ tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717)。
 - [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
 - [高雄二二八](https://www.books.com.tw/products/0010876101)。
+- [小王子 台語版](https://www.books.com.tw/products/0010851523)。
+- [咱來讀讀(tha̍k tho̍k)](https://www.books.com.tw/products/0010945660)。
+- [灶雞仔 Tsàu-ke-á：台語短篇小說集](https://www.books.com.tw/products/0010888812)。
+- [錦荔枝的滋味](https://www.books.com.tw/products/0010938237)。
 
 ## 台語歌 Tâi-gí-kua
 
 - [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=fd14f2b1f5354751)。
+- [台客原語歌](https://open.spotify.com/playlist/4ltBMoHCEXvUO3zb0mcgrP?si=16a3222fb5a74b77)。
 
-## 動畫
+## 動畫 Tōng-uē
 
 - [[教育部閩南語動畫](https://twbangga.moe.edu.tw/)。
+
+## 網站 bāng-tsām
+
+- [歌仔冊語唸歌 - 國立台灣大學數位典藏館](https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/page/home)。
+- [台語文記憶](http://210.240.194.97/memory/TGB/mowt.asp)。
+- [台灣民間文學歌仔册資料庫](https://db.nmtl.gov.tw/site4/s5/index)。
+- [台語文數位典藏資料庫](https://db.nmtl.gov.tw/site3/dindex)。
+- [一個禮拜學好台羅拼音！](https://hackmd.io/@itk1523/1week-kip)。
