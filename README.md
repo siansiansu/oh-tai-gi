@@ -61,7 +61,6 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [嘉義囡仔講台語](https://www.facebook.com/kagigina.kongtaigi)。
 - [塗豆仁學台語](https://www.facebook.com/Taigipeanut)。
 - [大人ê台語/gilik.tw](https://www.facebook.com/gilik.tw)。
-- [大人ê台語/gilik.tw](https://www.facebook.com/gilik.tw/)。
 - [失控的台語課](https://www.facebook.com/taigikho)。
 - [島嶼ê台語車幫 (Tó-sū ê Tâi-gí Chhia-pang)](https://www.facebook.com/TSTGCP)。
 - [母語ê/gǎi醫學](https://www.facebook.com/MothertongueMed)。
@@ -137,6 +136,10 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [華視台語頻道【台語字 珍趣味】](https://www.youtube.com/playlist?list=PLBorC_Ux-N46FMMIqeABuLQA9Aa3Kk2Rb)。
 - [台文博覽會 TÂI-BÛN EXPO](https://www.youtube.com/@tai-bunexpo1021)。
 
+## Blog
+
+- [阿表(A-Pió) 分享的食譜 - 愛料理](https://icook.tw/users/acb9d8997d3268f3)。
+
 ## 論壇 Lūn-tuânn
 
 - [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)。
@@ -177,3 +180,4 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [台灣民間文學歌仔册資料庫](https://db.nmtl.gov.tw/site4/s5/index)。
 - [台語文數位典藏資料庫](https://db.nmtl.gov.tw/site3/dindex)。
 - [一個禮拜學好台羅拼音！](https://hackmd.io/@itk1523/1week-kip)。
+- [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/)（無支援 Firefox）。
