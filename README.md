@@ -164,6 +164,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [灶雞仔 Tsàu-ke-á：台語短篇小說集](https://www.books.com.tw/products/0010888812)。
 - [錦荔枝的滋味](https://www.books.com.tw/products/0010938237)。
 - [還我台灣鳥仔名](https://siaulahjih.github.io/TaiOanChiauA)。
+- [作田人博物館](https://siaulahjih.github.io/ChohChhanLang)。
 
 ## 台語歌 Tâi-gí-kua
 
