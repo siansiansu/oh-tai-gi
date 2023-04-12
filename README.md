@@ -68,6 +68,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [牽囡仔ê手 行台語ê路](https://www.facebook.com/taigiloo)。
 - [王昭華](https://www.facebook.com/cit.lui.hoe)。
 - [米粉老師的台語教室](https://www.facebook.com/bihuntaigiteacher)。
+- [羽兔盒 Feather Rabbit Box](https://www.facebook.com/frabbitbox)。
 - [財團法人李江却台語文教基金會](https://www.facebook.com/lkktgb)。
 - [逐日一條台語歌](https://www.facebook.com/ataiwanesesongaday)。
 - [鏡新聞主播 黃筱純](https://www.facebook.com/huanghsiaochun0520)。
@@ -78,7 +79,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 ## Instagram
 
-- [Soo Bîn-hiân](https://www.instagram.com/siansian.bird/)。
+- [rinriringo](https://instagram.com/rinriringo)。
 - [余青 Î Tshing](https://www.instagram.com/_itshing)
 - [公視台語台/公視臺語台](https://www.instagram.com/kongsitaigitai)。
 - [出外講台語](https://www.instagram.com/chhut_goa_kong_tai_gi/)。
@@ -96,7 +97,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [逐工講台語](https://www.instagram.com/takkangkongtaigi/)。
 - [鄭順聰](https://www.instagram.com/jinsingkhahsutsitkusi/)。
 - [阿東的哩哩叩叩 | 台語小教室](https://www.instagram.com/lilicoco_tong/)。
-- [rinriringo](https://instagram.com/rinriringo)。
+- [鳥仔 ê 名](https://www.instagram.com/siansian.bird/)。
 
 ## Twitter
 
