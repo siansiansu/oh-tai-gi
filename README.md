@@ -150,20 +150,23 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 ## 台語書 Tâi-gí-tsheh
 
 - [一午二紅沙，三鯧四馬鮫：台灣海產的身世](https://www.books.com.tw/products/0010947895)。
+- [佮/教我講台語單字卡](https://www.gjtaiwan.com/new/?product=%E4%BD%AE-%E6%95%99%E6%88%91%E8%AC%9B%E5%8F%B0%E8%AA%9E%E5%96%AE%E5%AD%97%E5%8D%A1)。
 - [台語原來是這樣](https://www.books.com.tw/products/0010666107)。
 - [台語好日子：學台語的第一本書](https://www.books.com.tw/products/0010766749)。
 - [台語心花開：學台文超入門](https://www.books.com.tw/products/0010924124)。
 - [台語每日一句─落台語俗諺很簡單：學台語俗諺，參加閩南語競賽和認證更加分！](https://www.books.com.tw/products/0010920395)。
 - [台語現代小說選](https://www.books.com.tw/products/0010925436)。
 - [台語的鄉土口味—俗諺、俚語](https://www.books.com.tw/products/0010901557)。
-- [我咧唱歌](https://www.books.com.tw/products/0010867303)。
-- [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717)。
-- [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
-- [高雄二二八](https://www.books.com.tw/products/0010876101)。
-- [小王子 台語版](https://www.books.com.tw/products/0010851523)。
 - [咱來讀讀(tha̍k tho̍k)](https://www.books.com.tw/products/0010945660)。
+- [小王子 台語版](https://www.books.com.tw/products/0010851523)。
+- [我咧唱歌](https://www.books.com.tw/products/0010867303)。
+- [我就欲來去：鄭順聰詩集（附台語有聲唸讀）](https://www.gjtaiwan.com/new/?product=%E6%88%91%E5%B0%B1%E6%AC%B2%E4%BE%86%E5%8E%BB%EF%BC%9A%E9%84%AD%E9%A0%86%E8%81%B0%E8%A9%A9%E9%9B%86%EF%BC%88%E9%99%84%E5%8F%B0%E8%AA%9E%E6%9C%89%E8%81%B2%E5%94%B8%E8%AE%80%EF%BC%89)。
+- [我隨意，你盡量](https://www.gjtaiwan.com/new/?product=%E6%88%91%E9%9A%A8%E6%84%8F%EF%BC%8C%E4%BD%A0%E7%9B%A1%E9%87%8F)。
+- [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717)。
 - [灶雞仔 Tsàu-ke-á：台語短篇小說集](https://www.books.com.tw/products/0010888812)。
+- [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
 - [錦荔枝的滋味](https://www.books.com.tw/products/0010938237)。
+- [高雄二二八](https://www.books.com.tw/products/0010876101)。
 
 ## 台語歌 Tâi-gí-kua
 
