@@ -68,6 +68,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [牽囡仔ê手 行台語ê路](https://www.facebook.com/taigiloo)。
 - [王昭華](https://www.facebook.com/cit.lui.hoe)。
 - [米粉老師的台語教室](https://www.facebook.com/bihuntaigiteacher)。
+- [羽兔盒 Feather Rabbit Box](https://www.facebook.com/frabbitbox)。
 - [財團法人李江却台語文教基金會](https://www.facebook.com/lkktgb)。
 - [逐日一條台語歌](https://www.facebook.com/ataiwanesesongaday)。
 - [鏡新聞主播 黃筱純](https://www.facebook.com/huanghsiaochun0520)。
@@ -78,7 +79,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 ## Instagram
 
-- [Soo Bîn-hiân](https://www.instagram.com/siansian.bird/)。
+- [rinriringo](https://instagram.com/rinriringo)。
 - [余青 Î Tshing](https://www.instagram.com/_itshing)
 - [公視台語台/公視臺語台](https://www.instagram.com/kongsitaigitai)。
 - [出外講台語](https://www.instagram.com/chhut_goa_kong_tai_gi/)。
@@ -96,7 +97,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [逐工講台語](https://www.instagram.com/takkangkongtaigi/)。
 - [鄭順聰](https://www.instagram.com/jinsingkhahsutsitkusi/)。
 - [阿東的哩哩叩叩 | 台語小教室](https://www.instagram.com/lilicoco_tong/)。
-- [rinriringo](https://instagram.com/rinriringo)。
+- [鳥仔 ê 名](https://www.instagram.com/siansian.bird/)。
 
 ## Twitter
 
@@ -135,6 +136,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [華視台語頻道【台語tsin輾轉】](https://www.youtube.com/playlist?list=PLBorC_Ux-N44_JT5t35KjbNAy9OyCVn5B)。
 - [華視台語頻道【台語字 珍趣味】](https://www.youtube.com/playlist?list=PLBorC_Ux-N46FMMIqeABuLQA9Aa3Kk2Rb)。
 - [台文博覽會 TÂI-BÛN EXPO](https://www.youtube.com/@tai-bunexpo1021)。
+- [鏡新聞 👨‍🏫台語新聞Tâi-gí sin-bûn](https://www.youtube.com/playlist?list=PL1jBQxu5Eklfor6Q3feEoW9IzXou1yFBN)：台語聽有無，逐工報新詞。大代誌看鏡，帶您做夥用台灣話來看全世界。
 
 ## Blog
 
@@ -149,13 +151,18 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 ## 台語書 Tâi-gí-tsheh
 
 - [一午二紅沙，三鯧四馬鮫：台灣海產的身世](https://www.books.com.tw/products/0010947895)。
+- [佮/教我講台語單字卡](https://www.gjtaiwan.com/new/?product=%E4%BD%AE-%E6%95%99%E6%88%91%E8%AC%9B%E5%8F%B0%E8%AA%9E%E5%96%AE%E5%AD%97%E5%8D%A1)。
 - [台語原來是這樣](https://www.books.com.tw/products/0010666107)。
 - [台語好日子：學台語的第一本書](https://www.books.com.tw/products/0010766749)。
 - [台語心花開：學台文超入門](https://www.books.com.tw/products/0010924124)。
 - [台語每日一句─落台語俗諺很簡單：學台語俗諺，參加閩南語競賽和認證更加分！](https://www.books.com.tw/products/0010920395)。
 - [台語現代小說選](https://www.books.com.tw/products/0010925436)。
 - [台語的鄉土口味—俗諺、俚語](https://www.books.com.tw/products/0010901557)。
+- [咱來讀讀(tha̍k tho̍k)](https://www.books.com.tw/products/0010945660)。
+- [小王子 台語版](https://www.books.com.tw/products/0010851523)。
 - [我咧唱歌](https://www.books.com.tw/products/0010867303)。
+- [我就欲來去：鄭順聰詩集（附台語有聲唸讀）](https://www.gjtaiwan.com/new/?product=%E6%88%91%E5%B0%B1%E6%AC%B2%E4%BE%86%E5%8E%BB%EF%BC%9A%E9%84%AD%E9%A0%86%E8%81%B0%E8%A9%A9%E9%9B%86%EF%BC%88%E9%99%84%E5%8F%B0%E8%AA%9E%E6%9C%89%E8%81%B2%E5%94%B8%E8%AE%80%EF%BC%89)。
+- [我隨意，你盡量](https://www.gjtaiwan.com/new/?product=%E6%88%91%E9%9A%A8%E6%84%8F%EF%BC%8C%E4%BD%A0%E7%9B%A1%E9%87%8F)。
 - [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717)。
 - [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
 - [高雄二二八](https://www.books.com.tw/products/0010876101)。
