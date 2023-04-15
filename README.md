@@ -164,14 +164,12 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [我就欲來去：鄭順聰詩集（附台語有聲唸讀）](https://www.gjtaiwan.com/new/?product=%E6%88%91%E5%B0%B1%E6%AC%B2%E4%BE%86%E5%8E%BB%EF%BC%9A%E9%84%AD%E9%A0%86%E8%81%B0%E8%A9%A9%E9%9B%86%EF%BC%88%E9%99%84%E5%8F%B0%E8%AA%9E%E6%9C%89%E8%81%B2%E5%94%B8%E8%AE%80%EF%BC%89)。
 - [我隨意，你盡量](https://www.gjtaiwan.com/new/?product=%E6%88%91%E9%9A%A8%E6%84%8F%EF%BC%8C%E4%BD%A0%E7%9B%A1%E9%87%8F)。
 - [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717)。
-- [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
-- [高雄二二八](https://www.books.com.tw/products/0010876101)。
-- [小王子 台語版](https://www.books.com.tw/products/0010851523)。
-- [咱來讀讀(tha̍k tho̍k)](https://www.books.com.tw/products/0010945660)。
 - [灶雞仔 Tsàu-ke-á：台語短篇小說集](https://www.books.com.tw/products/0010888812)。
+- [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
 - [錦荔枝的滋味](https://www.books.com.tw/products/0010938237)。
 - [還我台灣鳥仔名](https://siaulahjih.github.io/TaiOanChiauA)。
 - [作田人博物館](https://siaulahjih.github.io/ChohChhanLang)。
+- [高雄二二八](https://www.books.com.tw/products/0010876101)。
 
 ## 台語歌 Tâi-gí-kua
 
