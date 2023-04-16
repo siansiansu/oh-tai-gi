@@ -136,6 +136,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [華視台語頻道【台語tsin輾轉】](https://www.youtube.com/playlist?list=PLBorC_Ux-N44_JT5t35KjbNAy9OyCVn5B)。
 - [華視台語頻道【台語字 珍趣味】](https://www.youtube.com/playlist?list=PLBorC_Ux-N46FMMIqeABuLQA9Aa3Kk2Rb)。
 - [台文博覽會 TÂI-BÛN EXPO](https://www.youtube.com/@tai-bunexpo1021)。
+- [鏡新聞 👨‍🏫台語新聞Tâi-gí sin-bûn](https://www.youtube.com/playlist?list=PL1jBQxu5Eklfor6Q3feEoW9IzXou1yFBN)：台語聽有無，逐工報新詞。大代誌看鏡，帶您做夥用台灣話來看全世界。
 
 ## Blog
 
@@ -166,6 +167,8 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [灶雞仔 Tsàu-ke-á：台語短篇小說集](https://www.books.com.tw/products/0010888812)。
 - [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
 - [錦荔枝的滋味](https://www.books.com.tw/products/0010938237)。
+- [還我台灣鳥仔名](https://siaulahjih.github.io/TaiOanChiauA)。
+- [作田人博物館](https://siaulahjih.github.io/ChohChhanLang)。
 - [高雄二二八](https://www.books.com.tw/products/0010876101)。
 
 ## 台語歌 Tâi-gí-kua
