@@ -170,6 +170,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [還我台灣鳥仔名](https://siaulahjih.github.io/TaiOanChiauA)。
 - [作田人博物館](https://siaulahjih.github.io/ChohChhanLang)。
 - [高雄二二八](https://www.books.com.tw/products/0010876101)。
+- [等路](https://www.books.com.tw/products/0010801801)。
 
 ## 台語歌 Tâi-gí-kua
 
