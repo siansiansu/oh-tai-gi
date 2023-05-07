@@ -22,19 +22,60 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 ## Podcast
 
+- [3Q陳柏惟](https://open.spotify.com/show/5bp0D3kANSE8yq7dubLo5m?si=b12192374ebc4dc6)。
+- [60%台語幹話王](https://open.spotify.com/show/1jj63FH0JcUelu1Euiz0fa?si=b727d5bd551344be)。
+- [PiA的台語手摺簿仔](https://open.spotify.com/show/26AwP1CLBmlP8YNL9BrWhY?si=1859032730cf4450)。
+- [亞特聊聊天](https://open.spotify.com/show/102SpIisn4mOLCvtc1yV0Q?si=e977a536329d4f81)。
 - [做伙來講台語、SŃG KAH 烏MÀMÀ！](https://open.spotify.com/show/7HZ4PA6wmN44ge4fIro09I?si=290774b0536d4b02)。
 - [公視台語台PODCAST](https://open.spotify.com/show/2CBb1KwU0S7AEudvybK9Wt?si=0825391294784b83)。
+- [叔姨講臺語](https://open.spotify.com/show/7xE4X7PKSvBfchV6XtYdup?si=8587920bb57e44b2)。
+- [台味 Taibee](https://open.spotify.com/show/1XYo4gZ9UkXv52DBFk5C07?si=9d376ba224444739)。
+- [台女講台 Tâi-lí Káng-tâi](https://open.spotify.com/show/1hg2NY22TvEexh1afdISeh?si=353084946fce4e12)。
 - [台灣人台灣事](https://open.spotify.com/show/1riqgeewHDTr586irRkE44?si=e84f566912724a3c)。
+- [台灣日常](https://open.spotify.com/show/6WpEengoYqD1p044aK1bLp?si=920a86f962084bda)。
+- [台語tsin輾轉](https://open.spotify.com/show/2vuk6eixyAUSTsMjDh6UCZ?si=c15f5808415249d0)。
+- [台語囡仔古](https://open.spotify.com/show/5pQE05QM6BsdXQAyGAt5Iv?si=13c835d74cbc4f78)。
+- [台語報你知](https://open.spotify.com/playlist/2hMcqgQ9aLVp8A0kn700aL?si=fe748be4de114018)。
+- [台語探討](https://open.spotify.com/show/1JpmZRMXDiL4VjgguLuJHJ?si=79640e55b59243ed)。
+- [台語開槓吃便當](https://open.spotify.com/show/2jtWZHPqWKdEY1tZVV81S3?si=511d4ff0b79543d8)。
+- [台語阿國哥](https://open.spotify.com/show/6wgn8wsKVDuDLUnBv04NjZ?si=71455cf2615b451b)。
+- [啪客頻出聲｜講台語啦！](https://open.spotify.com/show/1lZYmUHeGynGVrSgRKwhGY?si=629920ffd6684c6d)。
 - [土豆仁與圓仔花](https://open.spotify.com/show/5jNPY2plC4ar2C4KZA1jWo?si=fa11ed99b43b4c46)。
+- [大倫有大量](https://open.spotify.com/show/6lCfPC82ScdFkiZ7has990?si=e6ddb77b89624759)。
+- [奕齊上下班](https://open.spotify.com/show/1odmHWsaplurDhKytZG1ZJ?si=7cf585460ffc42e1)。
+- [好書開講 | 阿嬤講古予你聽 ～ 台語繪本唸讀](https://open.spotify.com/show/0wsOnYZi6pw81h0pmu4qWT?si=e1cbb05bb1a04672)。
 - [妮妮說故事](https://open.spotify.com/show/3EbzF0hlVw8ffLRuX5bwIs?si=e1902547a73b4277)。
+- [宗佑民俗文化讚](https://open.spotify.com/show/7IbVvhDCX3zD1ui4v1JFnk?si=ecb3cb5e166e4452)。
+- [寶島少年兄](https://open.spotify.com/show/1QIHwF3IvENyJ0m2yzJ8fA?si=88d8b711ad044f25)。
 - [尪某答嘴鼓](https://open.spotify.com/show/4SSexPH4k9j3ofj3ci2Mtf?si=75e16e3956304941)。
+- [巷仔口的臺語](https://open.spotify.com/show/0jfBrjXWVsEutSrYT9PSbo?si=aa29090610ed4223)。
+- [布袋戲，講予恁聽](https://open.spotify.com/show/6fK0CeY1j21b7A4nKcRT1t?si=316f7d08345143f1)。
+- [微微笑台語播客](https://open.spotify.com/show/1ustLlntTnvJ7vOMi6S4rR?si=b848e05801194c0e)。
+- [心肝放予鬆](https://open.spotify.com/show/1Zpa4DJXKGfwLLJ5LONv8B?si=e49158c68bc945ff)。
+- [戀戀曾文溪-78轉音樂廣播劇](https://open.spotify.com/show/3ElrJbo0HjzUengOcM3JtC?si=00f13f40da2644ef)。
+- [戀戀曾文溪-馬哈三合院繪本](https://open.spotify.com/show/2tTiZvPUHPBpBz6iXkhcVm?si=52d71d35ad6f44a9)。
 - [故事雜菜羹](https://open.spotify.com/show/24eLkVzQYkkiUF4AR8TVvs?si=7ae52ce05a3a4db6)。
+- [文學Tân雷公(陳雷台語文學)](https://open.spotify.com/show/1jDC1cpmC5eZ2WMCUzpmcg?si=aa1eaa0253cf4413)。
+- [曼城里長辦公室 Bān-siâⁿ lí-tiúⁿ pān-kong-sek](https://open.spotify.com/show/58Oc2VYAr8Ba0WdQhC7gTA?si=12b57b0e39b944f4)。
+- [李講古我來聽 Lee kóng-kóo guá lâi thiann](https://open.spotify.com/show/550cQ9ZK47daVBiHFDnRuh?si=7e12345faea64205)。
+- [水獺媽媽巧巧話](https://open.spotify.com/show/06fXdjNXspAe1QLML8EsAv?si=8cb667eea83e4cba)。
+- [浪鳥集](https://open.spotify.com/show/56b5Tdg6eW3Opod2jbYV0J?si=a6e9a7de33614b54)。
 - [牽囡仔 ê 手，來聽囡仔古](https://open.spotify.com/show/6aMEHrQ0zwCU3bDZeUQaEl?si=b581ca70cf2440db)。
+- [科博做伙講](https://open.spotify.com/show/5PQJM19Gh72jTQXoHJhyB2?si=da8c9ffc76df44d4)。
+- [童話透中島](https://open.spotify.com/show/1Tx6ZDhuSDr9aMLUtj4mHU?si=050f6314b3284fee)。
+- [耶穌講台語](https://open.spotify.com/show/2MHUphxcPDJHSIna4WZpNT?si=d1d1c1dae42e4932)。
 - [肥宅熊的台語日常雜記 Bear’s Taiwanese talk](https://open.spotify.com/show/60ixueWwU5etuCtVqkzNcN?si=84d390921ef6429c)。
+- [英學宇宙eng-ha̍k-ú-tiū](https://open.spotify.com/show/4OPFQwpSRuCZqG1KcrpHEK?si=3a9fef076e094ef3)。
 - [豪洨亭仔跤](https://open.spotify.com/show/3J5bm7p2F6gmMYL2zJOVTl?si=3c354d06f9384ed1)。
+- [逐工一幅天文圖 APOD Taigi](https://open.spotify.com/show/2HPCBScM4aJfij0X8C2v0B?si=21d87c6a35cd401d)。
 - [邊友愛講話 pîng-iú ài kóng-uē](https://open.spotify.com/show/1839iTni8QXQ7zR6HYoE4G?si=c7d6bbd9b13d44c8)。
+- [錦荔枝的滋味](https://open.spotify.com/show/32KcOUbPrwPna23I87BKIl?si=c85c3c639c65450e)。
 - [阮劇團 Our Theatre 這聲好啊！](https://open.spotify.com/show/41tPh78QVIx4HkA3Xh42o0?si=ac6b6f05330b42a5)。
-- [亞特聊聊天](https://open.spotify.com/show/102SpIisn4mOLCvtc1yV0Q?si=e977a536329d4f81)。
+- [阿愷之聲](https://open.spotify.com/show/5XrUHmcAPJBcB7O7IZoXZQ?si=d5084ef6891d4fab)。
+- [飯桌仔](https://open.spotify.com/show/1riLl314zOtqUV7kp2RYau?si=ecf93652b2da4d24)。
+- [魚夫的世界](https://open.spotify.com/show/1bbl94RlfIEAYh4sYOgQvt?si=89ce59148ce9419e)。
+- [黃越綏 《恁祖媽來了》](https://open.spotify.com/show/1bhbcJx6R3PqJYUsxLkMQ7?si=b6a5b3ceda6d4b78)。
+- [龜邸家 Good Job](https://open.spotify.com/show/6moGG2gBjXsRm8awcLSA7V?si=c055fed65eca4772)。
 
 ## Facebook 面冊 Bīn-tsheh
 
