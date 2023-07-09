@@ -1,7 +1,5 @@
 # Oh-tai-gi
 
-![小椋鳥](https://github.com/siansiansu/oh-tai-gi/assets/33391637/656a22f4-dc4c-4e17-ae09-7c8335b7a49c)
-
 遮是我佇學台語時所參考的學習資源清單，你若有建議的教材，歡迎使用 Pull Request 來補充不足的部分，抑是留言佮我講，多謝 🙇‍♂️！  
 Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī liû-giân kah guá kóng, to-siā 🙇‍♂️!
 
