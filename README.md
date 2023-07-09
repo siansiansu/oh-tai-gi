@@ -43,7 +43,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [土豆仁與圓仔花](https://open.spotify.com/show/5jNPY2plC4ar2C4KZA1jWo?si=fa11ed99b43b4c46)。
 - [大倫有大量](https://open.spotify.com/show/6lCfPC82ScdFkiZ7has990?si=e6ddb77b89624759)。
 - [奕齊上下班](https://open.spotify.com/show/1odmHWsaplurDhKytZG1ZJ?si=7cf585460ffc42e1)。
-- [好書開講 | 阿嬤講古予你聽 ～ 台語繪本唸讀](https://open.spotify.com/show/0wsOnYZi6pw81h0pmu4qWT?si=e1cbb05bb1a04672)。
+- [好書開講 阿嬤講古予你聽 ～ 台語繪本唸讀](https://open.spotify.com/show/0wsOnYZi6pw81h0pmu4qWT?si=e1cbb05bb1a04672)。
 - [妮妮說故事](https://open.spotify.com/show/3EbzF0hlVw8ffLRuX5bwIs?si=e1902547a73b4277)。
 - [宗佑民俗文化讚](https://open.spotify.com/show/7IbVvhDCX3zD1ui4v1JFnk?si=ecb3cb5e166e4452)。
 - [寶島少年兄](https://open.spotify.com/show/1QIHwF3IvENyJ0m2yzJ8fA?si=88d8b711ad044f25)。
@@ -138,7 +138,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [逐工講台語](https://www.instagram.com/takkangkongtaigi/)。
 - [鄭順聰](https://www.instagram.com/jinsingkhahsutsitkusi/)。
 - [阿東的哩哩叩叩 | 台語小教室](https://www.instagram.com/lilicoco_tong/)。
-- [鳥仔 ê 名](https://www.instagram.com/siansian.bird/)。
+- [鳥仔 ê 名](https://www.instagram.com/siansiansu/)。
 
 ## Twitter
 
@@ -160,7 +160,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 ## Youtube
 
 - [公視台語台新聞](https://www.youtube.com/channel/UCNQ4H3GxXOpvXEDSSd7NVOg)。
-- [公視台語台網路直播(部分節目無版權) | Tai-gi Live](https://www.youtube.com/watch?v=cnYQ_z7QfxE)。
+- [公視台語台網路直播(部分節目無版權) Tai-gi Live](https://www.youtube.com/watch?v=cnYQ_z7QfxE)。
 - [🍵 親戚不計較 火熱跟播中](https://www.youtube.com/playlist?list=PL02zpjjwMEjpxvDiFaLdTLyvcjto81O9r)。
 - [林昶佐 Freddy Lim](https://www.youtube.com/@limfreddy)。
 - [台南妹仔教你講台語](https://www.youtube.com/channel/UCAEWlYbdwc2d7lAr9FUNf-g)。
@@ -230,3 +230,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [台語文數位典藏資料庫](https://db.nmtl.gov.tw/site3/dindex)。
 - [一個禮拜學好台羅拼音！](https://hackmd.io/@itk1523/1week-kip)。
 - [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/)（無支援 Firefox）。
+
+## Anki 單字卡 tan-jī-khah
+
+- [siansiansu/anki-taigi](https://github.com/siansiansu/anki-taigi)
