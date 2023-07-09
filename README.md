@@ -137,7 +137,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [逐工一幅天文圖 Apod Taigi](https://www.instagram.com/apod_taigi/)。
 - [逐工講台語](https://www.instagram.com/takkangkongtaigi/)。
 - [鄭順聰](https://www.instagram.com/jinsingkhahsutsitkusi/)。
-- [阿東的哩哩叩叩 | 台語小教室](https://www.instagram.com/lilicoco_tong/)。
+- [阿東的哩哩叩叩 台語小教室](https://www.instagram.com/lilicoco_tong/)。
 - [鳥仔 ê 名](https://www.instagram.com/siansiansu/)。
 
 ## Twitter
