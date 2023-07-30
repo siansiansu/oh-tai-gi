@@ -191,27 +191,58 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 ## 台語書 Tâi-gí-tsheh
 
-- [一午二紅沙，三鯧四馬鮫：台灣海產的身世](https://www.books.com.tw/products/0010947895)。
-- [作田人博物館](https://siaulahjih.github.io/ChohChhanLang)。
-- [佮/教我講台語單字卡](https://www.gjtaiwan.com/new/?product=%E4%BD%AE-%E6%95%99%E6%88%91%E8%AC%9B%E5%8F%B0%E8%AA%9E%E5%96%AE%E5%AD%97%E5%8D%A1)。
-- [台語原來是這樣](https://www.books.com.tw/products/0010666107)。
-- [台語好日子：學台語的第一本書](https://www.books.com.tw/products/0010766749)。
-- [台語心花開：學台文超入門](https://www.books.com.tw/products/0010924124)。
-- [台語每日一句─落台語俗諺很簡單：學台語俗諺，參加閩南語競賽和認證更加分！](https://www.books.com.tw/products/0010920395)。
-- [台語現代小說選](https://www.books.com.tw/products/0010925436)。
-- [台語的鄉土口味—俗諺、俚語](https://www.books.com.tw/products/0010901557)。
-- [咱來讀讀(tha̍k tho̍k)](https://www.books.com.tw/products/0010945660)。
-- [小王子 台語版](https://www.books.com.tw/products/0010851523)。
-- [我咧唱歌](https://www.books.com.tw/products/0010867303)。
-- [我就欲來去：鄭順聰詩集（附台語有聲唸讀）](https://www.gjtaiwan.com/new/?product=%E6%88%91%E5%B0%B1%E6%AC%B2%E4%BE%86%E5%8E%BB%EF%BC%9A%E9%84%AD%E9%A0%86%E8%81%B0%E8%A9%A9%E9%9B%86%EF%BC%88%E9%99%84%E5%8F%B0%E8%AA%9E%E6%9C%89%E8%81%B2%E5%94%B8%E8%AE%80%EF%BC%89)。
-- [我隨意，你盡量](https://www.gjtaiwan.com/new/?product=%E6%88%91%E9%9A%A8%E6%84%8F%EF%BC%8C%E4%BD%A0%E7%9B%A1%E9%87%8F)。
-- [浪鳥集：泰戈爾《漂鳥集》台文版](https://www.books.com.tw/products/0010946717)。
-- [灶雞仔 Tsàu-ke-á：台語短篇小說集](https://www.books.com.tw/products/0010888812)。
-- [等路](https://www.books.com.tw/products/0010801801)。
-- [語言學家解破台語](https://www.books.com.tw/products/0010927275)。
-- [還我台灣鳥仔名](https://siaulahjih.github.io/TaiOanChiauA)。
-- [錦荔枝的滋味](https://www.books.com.tw/products/0010938237)。
-- [高雄二二八](https://www.books.com.tw/products/0010876101)。
+- [A-chhûn - 陳明仁](https://www.tgb.org.tw/2011/12/chhun.html)。
+- [Thá-kheh：2012阿却賞tio̍h獎人林貴龍台語小說集 - 林貴龍](https://www.books.com.tw/products/0010847193)。
+- [Tò-tńg 倒轉 - 劉承賢](https://www.tgb.org.tw/2014/03/blog-post_13.html)。
+- [iPad kap 杯仔：何信翰台語詩集 - 何信翰](https://www.books.com.tw/products/0010847196)。
+- [一午二紅沙，三鯧四馬鮫：台灣海產的身世 - 曹銘宗](https://www.books.com.tw/products/0010947895)。
+- [作田人博物館 - 蕭平治](https://siaulahjih.github.io/ChohChhanLang)。
+- [佮/教我講台語單字卡-：
+- [八卦紅之心 - 林美麗](https://books.google.com.tw/books/about/%E5%85%AB%E5%8D%A6%E7%B4%85%E4%B9%8B%E5%BF%83.html?id=ZTyLswEACAAJ&redir_esc=y)。
+- [台味飄撇：食好料的所在 - 鄭順聰](https://www.books.com.tw/products/0010962848)。
+- [台灣我的祖國 - 胡長松](https://www.books.com.tw/products/0010923557)。
+- [台灣阿草：台灣史蹟草木台語詩集 - 王羅蜜多](https://www.books.com.tw/products/0010938469)。
+- [台語原來是這樣 - 粉紅色小屋](https://www.books.com.tw/products/0010666107)。
+- [台語好日子：學台語的第一本書 - 鄭順聰](https://www.books.com.tw/products/0010766749)。
+- [台語心花開：學台文超入門 - 鄭順聰](https://www.books.com.tw/products/0010924124)。
+- [台語每日一句─落台語俗諺很簡單：學台語俗諺，參加閩南語競賽和認證更加分！ - 許晉彰, 盧玉雯](https://www.books.com.tw/products/0010920395)。
+- [台語現代小說選 - 郭頂順, 蔡秋桐, 蘇德興, 楊逵, 賴和, 陳明仁, 陳雷, 王貞文, 胡長松, 胡民祥, 陳正雄, 藍春瑞, 林美麗, 王羅蜜多](https://www.books.com.tw/products/0010925436)。
+- [台語的鄉土口味—俗諺、俚語 - 顏勝堂](https://www.books.com.tw/products/0010901557)。
+- [咱來讀讀 - 王秀容](https://www.books.com.tw/products/0010945660)。
+- [喙講台語‧手寫台文 - 蔣為文](https://mhi.moe.edu.tw/infoList.jsp?ID=2&ID2=630)。
+- [囝仔王子 Gínná Ôngchú - 莊惠平譯](https://www.books.com.tw/products/0010884135)。
+- [地獄谷：台語小說集 - 王羅蜜多](https://www.books.com.tw/products/0010923759)。
+- [天良 - 陳金順](https://archive.ncafroc.org.tw/result?id=411438ab8f7e4dd887f395025cd13d86)。
+- [奪人ê愛：藍春瑞台語小說集 - 藍春瑞](https://www.books.com.tw/products/0010848726)。
+- [小王子 台語版 - 蔡雅菁譯](https://www.books.com.tw/products/0010851523)。
+- [彩虹春風 - 陳金順](https://archive.ncafroc.org.tw/result?id=74aeb1e8e7594a60b5539342ea19a2eb)。
+- [彼年的熱天 精選台語散文113篇：詳附註解，不懂台語也看得懂 - 李恆德](https://www.books.com.tw/products/0010837270)。
+- [我咧唱歌 - 王秀容](https://www.books.com.tw/products/0010867303)。
+- [我就欲來去：鄭順聰詩集（附台語有聲唸讀）- 鄭順聰](https://www.gjtaiwan.com/new/?product=%E6%88%91%E5%B0%B1%E6%AC%B2%E4%BE%86%E5%8E%BB%EF%BC%9A%E9%84%AD%E9%A0%86%E8%81%B0%E8%A9%A9%E9%9B%86%EF%BC%88%E9%99%84%E5%8F%B0%E8%AA%9E%E6%9C%89%E8%81%B2%E5%94%B8%E8%AE%80%EF%BC%89)。
+- [我隨意，你盡量 - 王昭華](https://www.gjtaiwan.com/new/?product=%E6%88%91%E9%9A%A8%E6%84%8F%EF%BC%8C%E4%BD%A0%E7%9B%A1%E9%87%8F)。
+- [拋荒的故事：全套書（共6輯）- 陳明仁](https://www.books.com.tw/products/0010864540)。
+- [掀開Siraya這本冊 - 陳金順]()。
+- [日頭雨截句 - 王羅蜜多](https://www.books.com.tw/products/0010803688)。
+- [月光情批：李桂媚台語詩集 - 李桂媚](https://www.books.com.tw/products/0010844028)。
+- [楊桃將軍 - 黃文俊](https://books.google.com.tw/books/about/%E6%A5%8A%E6%A1%83%E5%B0%87%E8%BB%8D.html?id=BWXRtwEACAAJ&redir_esc=y)。
+- [浪鳥集：泰戈爾《漂鳥集》台文版 - 温若喬譯](https://www.books.com.tw/products/0010946717)。
+- [海角恆春 - 陳金順]()。
+- [灶雞仔 Tsàu-ke-á：台語短篇小說集 - 陳正雄](https://www.books.com.tw/products/0010888812)。
+- [白色ê甘蔗園 - 陳雷](https://pickbooks.com.tw/book/3_007387520?cd=1)。
+- [石頭縫的幸運草 - 林美麗](http://www.taiouan.com.tw/catalog/product_info.php?products_id=20987)。
+- [秋蟬 - 陳金順]()。
+- [等路 - 洪明道](https://www.books.com.tw/products/0010801801)。
+- [翻身．番身(台語小說集) - 劉承賢](https://www.smcbook.com.tw/smc/index.php?route=product/product&product_id=39643)。
+- [記持開始食餌 - 柯柏榮](https://www.books.com.tw/products/0010891969)。
+- [語言學家解破台語 - 劉承賢](https://www.books.com.tw/products/0010927275)。
+- [迷魂芳：倚海邊植物台語詩 - 黃徙](https://www.books.com.tw/products/0010872391)。
+- [還我台灣鳥仔名 - 蕭平治](https://siaulahjih.github.io/TaiOanChiauA)。
+- [鄉史補記 - 陳雷](https://www.sanmin.com.tw/product/index/000761375)。
+- [金色島嶼之歌 - 胡長松](https://www.books.com.tw/products/0010682733)。
+- [錦荔枝的滋味 - 洪淑昭](https://www.books.com.tw/products/0010938237)。
+- [陳明仁台語文學選 - 陳明仁](https://www.eslite.com/product/1001114791318473)。
+- [高雄二二八 - 吳家銘](https://www.books.com.tw/products/0010876101)。
+聚珍臺灣](https://www.gjtaiwan.com/new/?product=%E4%BD%AE-%E6%95%99%E6%88%91%E8%AC%9B%E5%8F%B0%E8%AA%9E%E5%96%AE%E5%AD%97%E5%8D%A1)。
 
 ## 台語歌 Tâi-gí-kua
 
