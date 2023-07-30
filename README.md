@@ -197,7 +197,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [iPad kap 杯仔：何信翰台語詩集 - 何信翰](https://www.books.com.tw/products/0010847196)。
 - [一午二紅沙，三鯧四馬鮫：台灣海產的身世 - 曹銘宗](https://www.books.com.tw/products/0010947895)。
 - [作田人博物館 - 蕭平治](https://siaulahjih.github.io/ChohChhanLang)。
-- [佮/教我講台語單字卡-：
+- [佮/教我講台語單字卡 - 聚珍臺灣](https://www.eslite.com/product/1007345272682062520009)。
 - [八卦紅之心 - 林美麗](https://books.google.com.tw/books/about/%E5%85%AB%E5%8D%A6%E7%B4%85%E4%B9%8B%E5%BF%83.html?id=ZTyLswEACAAJ&redir_esc=y)。
 - [台味飄撇：食好料的所在 - 鄭順聰](https://www.books.com.tw/products/0010962848)。
 - [台灣我的祖國 - 胡長松](https://www.books.com.tw/products/0010923557)。
@@ -242,7 +242,6 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [錦荔枝的滋味 - 洪淑昭](https://www.books.com.tw/products/0010938237)。
 - [陳明仁台語文學選 - 陳明仁](https://www.eslite.com/product/1001114791318473)。
 - [高雄二二八 - 吳家銘](https://www.books.com.tw/products/0010876101)。
-聚珍臺灣](https://www.gjtaiwan.com/new/?product=%E4%BD%AE-%E6%95%99%E6%88%91%E8%AC%9B%E5%8F%B0%E8%AA%9E%E5%96%AE%E5%AD%97%E5%8D%A1)。
 
 ## 台語歌 Tâi-gí-kua
 
