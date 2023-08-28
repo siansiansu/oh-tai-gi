@@ -230,22 +230,25 @@ Tsia sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tu
 - [天良 - 陳金順](https://archive.ncafroc.org.tw/result?id=411438ab8f7e4dd887f395025cd13d86)。
 - [奪人ê愛：藍春瑞台語小說集 - 藍春瑞](https://www.books.com.tw/products/0010848726)。
 - [小王子 台語版 - 蔡雅菁譯](https://www.books.com.tw/products/0010851523)。
+- [幻影號的奇航 - 胡長松](https://www.books.com.tw/products/0010901188)。
 - [彩虹春風 - 陳金順](https://archive.ncafroc.org.tw/result?id=74aeb1e8e7594a60b5539342ea19a2eb)。
+- [彼年春天：廖玉蕙的台語散文 - 廖玉蕙](https://www.books.com.tw/products/0010881101)。
 - [彼年的熱天 精選台語散文113篇：詳附註解，不懂台語也看得懂 - 李恆德](https://www.books.com.tw/products/0010837270)。
 - [我咧唱歌 - 王秀容](https://www.books.com.tw/products/0010867303)。
 - [我就欲來去：鄭順聰詩集（附台語有聲唸讀）- 鄭順聰](https://www.gjtaiwan.com/new/?product=%E6%88%91%E5%B0%B1%E6%AC%B2%E4%BE%86%E5%8E%BB%EF%BC%9A%E9%84%AD%E9%A0%86%E8%81%B0%E8%A9%A9%E9%9B%86%EF%BC%88%E9%99%84%E5%8F%B0%E8%AA%9E%E6%9C%89%E8%81%B2%E5%94%B8%E8%AE%80%EF%BC%89)。
 - [我隨意，你盡量 - 王昭華](https://www.gjtaiwan.com/new/?product=%E6%88%91%E9%9A%A8%E6%84%8F%EF%BC%8C%E4%BD%A0%E7%9B%A1%E9%87%8F)。
 - [拋荒的故事：全套書（共6輯）- 陳明仁](https://www.books.com.tw/products/0010864540)。
-- [掀開Siraya這本冊 - 陳金順]()。
+- [掀開Siraya這本冊 - 陳金順](https://archive.ncafroc.org.tw/result?id=b89ad3ee86a24d7a87c98baba75dc599)。
 - [日頭雨截句 - 王羅蜜多](https://www.books.com.tw/products/0010803688)。
 - [月光情批：李桂媚台語詩集 - 李桂媚](https://www.books.com.tw/products/0010844028)。
 - [楊桃將軍 - 黃文俊](https://books.google.com.tw/books/about/%E6%A5%8A%E6%A1%83%E5%B0%87%E8%BB%8D.html?id=BWXRtwEACAAJ&redir_esc=y)。
 - [浪鳥集：泰戈爾《漂鳥集》台文版 - 温若喬譯](https://www.books.com.tw/products/0010946717)。
-- [海角恆春 - 陳金順]()。
+- [海角恆春 - 陳金順](https://archive.ncafroc.org.tw/result;jsessionid=843346F64E888605280F93B6EB26228A?id=3508faa1fb55458897c66815b8dbc3c1)。
 - [灶雞仔 Tsàu-ke-á：台語短篇小說集 - 陳正雄](https://www.books.com.tw/products/0010888812)。
 - [白色ê甘蔗園 - 陳雷](https://pickbooks.com.tw/book/3_007387520?cd=1)。
 - [石頭縫的幸運草 - 林美麗](http://www.taiouan.com.tw/catalog/product_info.php?products_id=20987)。
-- [秋蟬 - 陳金順]()。
+- [祝福的意思：等路台文版 - 洪明道](https://www.books.com.tw/products/0010899813)。
+- [秋蟬 - 陳金順](https://www.facebook.com/2booksite/posts/2488644274486232/?paipv=0&eav=AfY7WfUwm-0EbKl4-TOIplJBVhPFb7gT7SJr-WGm_fm0CfJd3tybDrAn3N6Zrm_VigI&_rdr)。
 - [等路 - 洪明道](https://www.books.com.tw/products/0010801801)。
 - [翻身．番身(台語小說集) - 劉承賢](https://www.smcbook.com.tw/smc/index.php?route=product/product&product_id=39643)。
 - [記持開始食餌 - 柯柏榮](https://www.books.com.tw/products/0010891969)。
@@ -256,6 +259,8 @@ Tsia sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tu
 - [金色島嶼之歌 - 胡長松](https://www.books.com.tw/products/0010682733)。
 - [錦荔枝的滋味 - 洪淑昭](https://www.books.com.tw/products/0010938237)。
 - [陳明仁台語文學選 - 陳明仁](https://www.eslite.com/product/1001114791318473)。
+- [青瓦厝ê安妮（台英雙語．附台語朗讀）- 黃昭瑞, 白麗芬譯](https://www.books.com.tw/products/0010916861)。
+- [驚驚袂著等：劉靜娟的台語時間 - 劉靜娟](https://www.books.com.tw/products/0010854510)。
 - [高雄二二八 - 吳家銘](https://www.books.com.tw/products/0010876101)。
 
 ## 台語歌 Tâi-gí-kua
