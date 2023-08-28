@@ -1,7 +1,7 @@
 # 學台語 Oh Tâi-gí
 
-遮是我佇學台語時所參考的學習資源清單，你若有建議的教材，歡迎使用 Pull Request 來補充不足的部分，抑是留言佮我講，多謝 🙇‍♂️！  
-Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī liû-giân kah guá kóng, to-siā 🙇‍♂️!
+遮是學習台語時會使參考 ê 學習資源清單，你若有建議的教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是留言共我講，多謝 🙇‍♂️！ 
+Tsia sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī liû-giân kā guá kóng, to-siā 🙇‍♂️!
 
 ## 揣字 Tshuē-jī
 
@@ -80,9 +80,11 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 ## Facebook 面冊 Bīn-tsheh
 
 - [ChhoeTaigi 找台語 - 台語辭典、字詞資料庫](https://www.facebook.com/ChhoeTaigi)。
+- [NASA 逐工一幅天文圖 APOD Taigi](https://www.facebook.com/APOD.Taigi)。
 - [Tâi-gí Niau 台語貓](https://www.facebook.com/TaigiNiau)。
 - [Tâi-gí lāu-su 台語老蘇](https://www.facebook.com/TaigiLausu)。
 - [coodychiu](https://www.facebook.com/coodychiu)。
+- [亞特聊聊天](https://www.facebook.com/atlantis.podcast.talk)。
 - [做伙來講台語、sńg kah 烏 mà-mà 好無？](https://www.facebook.com/OmamaTaioan228)。
 - [做伙破讀講臺語](https://www.facebook.com/letstalkintaiwanese)。
 - [公視台語台-寶島鼓仔燈](https://www.facebook.com/%E5%85%AC%E8%A6%96%E5%8F%B0%E8%AA%9E%E5%8F%B0-%E5%AF%B6%E5%B3%B6%E9%BC%93%E4%BB%94%E7%87%88-427821587771664/)。
@@ -91,11 +93,13 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [出外講台語 Chhut-gōa kóng Tâi-gí](https://www.facebook.com/ChhutGoaKongTaiGi/)。
 - [台南妹仔教你講台語](https://www.facebook.com/SpeaktaiwanesewithAYO)。
 - [台大台語文社-ntutgbs](https://www.facebook.com/ntutgbs)。
+- [台文博覽會 TÂI-BÛN EXPO](https://www.facebook.com/taibunexpo)。
 - [台語call雞精](https://www.facebook.com/calltsitsin)。
 - [台語tsín袂輾轉 Easy Taiwanese](https://www.facebook.com/easytaiwanese)。
 - [台語嘛會通](https://www.facebook.com/profile.php?id=100066598714569)。
 - [台語有影](https://www.facebook.com/Taigi.Cinema/)。
 - [台語海龜湯](https://www.facebook.com/profile.php?id=100069641407677)。
+- [台語老厝 Tâi-gí tshù](https://www.facebook.com/TAIGITSHU)。
 - [台語語法冷知識](https://www.facebook.com/TaiwaneseSyntax)。
 - [吳國禎。講新聞、說歌詩](https://www.facebook.com/taiwanesesongs)。
 - [咱kóng台語](https://www.facebook.com/LanKongTaigi/)。
@@ -104,12 +108,21 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [大人ê台語/gilik.tw](https://www.facebook.com/gilik.tw)。
 - [失控的台語課](https://www.facebook.com/taigikho)。
 - [島嶼ê台語車幫 (Tó-sū ê Tâi-gí Chhia-pang)](https://www.facebook.com/TSTGCP)。
+- [李講古我來聽 Lee Kóng-kóo guá lâi thiann](https://www.facebook.com/Podtaigi.LKK)。
 - [母語ê/gǎi醫學](https://www.facebook.com/MothertongueMed)。
+- [母語ê/gǎi醫學](https://www.facebook.com/MothertongueMed)。
+- [母語市仔](https://www.facebook.com/people/%E6%AF%8D%E8%AA%9E%E5%B8%82%E4%BB%94-b%C3%BA-g%C3%AD-chh%C4%AB-%C3%A1/100077854992341/)。
 - [水獺媽媽巧慧與她的小夥伴](https://www.facebook.com/ottermamachiao)。
 - [牽囡仔ê手 行台語ê路](https://www.facebook.com/taigiloo)。
 - [王昭華](https://www.facebook.com/cit.lui.hoe)。
+- [珂拉琪 Collage 愛好者](https://www.facebook.com/CollageLover)。
+- [瑩火蟲](https://www.facebook.com/huekimkoo)。
 - [米粉老師的台語教室](https://www.facebook.com/bihuntaigiteacher)。
 - [羽兔盒 Feather Rabbit Box](https://www.facebook.com/frabbitbox)。
+- [腦神經退化中](https://www.facebook.com/people/%E8%85%A6%E7%A5%9E%E7%B6%93%E9%80%80%E5%8C%96%E4%B8%AD/100076093871796/)。
+- [臺語心Tâi-gí-sim](https://www.facebook.com/people/%E8%87%BA%E8%AA%9E%E5%BF%83T%C3%A2i-g%C3%AD-sim/100064117959546/)。
+- [花鹿智識庫](https://www.facebook.com/taiuanhuelok)。
+- [語您童行Tai-Gi](https://www.facebook.com/nycutaigi)。
 - [財團法人李江却台語文教基金會](https://www.facebook.com/lkktgb)。
 - [逐日一條台語歌](https://www.facebook.com/ataiwanesesongaday)。
 - [鏡新聞主播 黃筱純](https://www.facebook.com/huanghsiaochun0520)。
@@ -117,6 +130,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [阿娘的話-消失中的台語](https://www.facebook.com/profile.php?id=100063798075831)。
 - [風魅緋孤 - 台語文僧侶 wololo](https://www.facebook.com/fumi420/)。
 - [麒麟鹿臺語](https://www.facebook.com/profile.php?id=100090419670937)。
+- [龜邸家 Good Job](https://www.facebook.com/people/%E9%BE%9C%E9%82%B8%E5%AE%B6-Good-Job/100069003586890/)。
 
 ## Instagram
 
@@ -188,6 +202,7 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 - [對囡仔講台語](https://www.facebook.com/groups/tuiginakongtaigu/)。
 - [臺語社](https://www.facebook.com/groups/120852554658610)。
 - [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)。
+- [大同仔台語社](https://www.facebook.com/groups/155700859812570/)
 
 ## 台語書 Tâi-gí-tsheh
 
@@ -263,4 +278,5 @@ Tsia sī guá tī o̍h Tâi-gí sî sóo tsham-khó ê ha̍k-si̍p chu-guân tsh
 
 ## Anki 單字卡 tan-jī-khah
 
-- [siansiansu/anki-taigi](https://github.com/siansiansu/anki-taigi)
+- [台語美聲/台灣媠聲/ Beautiful Taiwanese](https://ankiweb.net/shared/info/741273519)。
+- [臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)。
