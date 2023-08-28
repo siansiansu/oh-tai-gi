@@ -285,3 +285,9 @@ Tsia sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tu
 
 - [台語美聲/台灣媠聲/ Beautiful Taiwanese](https://ankiweb.net/shared/info/741273519)。
 - [臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)。
+
+## 揣我 tshuē-guá
+
+- Email: minsiansu@gmail.com
+- Instagram: https://www.instagram.com/siansiansu/
+- Facebook: https://www.facebook.com/siansiansu
