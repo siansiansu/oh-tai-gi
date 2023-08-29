@@ -1,4 +1,4 @@
-# 學台語 Oh Tâi-gí
+# [學台語 Oh Tâi-gí](https://github.com/siansiansu/oh-tai-gi)
 
 這是學習台語時會使參考 ê 學習資源清單，你若有建議的教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是留言共我講，多謝 🙇‍♂️！ 
 Tse sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī liû-giân kā guá kóng, to-siā 🙇‍♂️!
