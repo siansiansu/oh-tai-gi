@@ -2,6 +2,9 @@ footer_entries:
   - title: home
     url: https://siansiansu.github.io/
 
+  - title: email
+    url: mailto:minsiansu@gmail.com
+
   - title: github
     url: https://github.com/siansiansu
 
