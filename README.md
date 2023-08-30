@@ -1,8 +1,10 @@
 # [學台語 Oh Tâi-gí](https://github.com/siansiansu/oh-tai-gi)
 
-這是學習台語時會使參考 ê 學習資源清單，你若有建議的教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是留言共我講，多謝 🙇‍♂️！
+![E90D68E7-42DE-44C8-8E62-37231A7AE2BB_1_201_a](https://github.com/siansiansu/oh-tai-gi/assets/33391637/099de601-0e54-44d2-b5b2-e848117ce336)
 
-Tse sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī liû-giân kā guá kóng, to-siā 🙇‍♂️!
+這 ê 清單整理誠濟學習台語 ê 資源，你若有建議的教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是留言共我講，多謝 🙇‍♂️！
+
+Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī liû-giân kā guá kóng, to-siā 🙇‍♂️!
 
 ## 揣字 Tshuē-jī
 
