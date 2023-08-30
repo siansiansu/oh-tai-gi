@@ -16,68 +16,6 @@ Tse sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tua
 - [PhahTaigi 台語輸入法 (iOS)](https://apps.apple.com/tw/app/phahtaigi-%E5%8F%B0%E8%AA%9E%E8%BC%B8%E5%85%A5%E6%B3%95/id1455093650)。
 - [意傳台文輸入法](https://sujiphuat.ithuan.tw/)
 
-## 認證考試 Jīn-tsìng Khó-tshì
-
-- [全民台語認證](https://ctlt.twl.ncku.edu.tw/gtpt/index.html)。
-- [閩南語語言能力認證考試](https://blgjts.moe.edu.tw/tmt/index.php)。
-
-## Podcast
-
-- [3Q陳柏惟](https://open.spotify.com/show/5bp0D3kANSE8yq7dubLo5m?si=b12192374ebc4dc6)。
-- [60%台語幹話王](https://open.spotify.com/show/1jj63FH0JcUelu1Euiz0fa?si=b727d5bd551344be)。
-- [PiA的台語手摺簿仔](https://open.spotify.com/show/26AwP1CLBmlP8YNL9BrWhY?si=1859032730cf4450)。
-- [亞特聊聊天](https://open.spotify.com/show/102SpIisn4mOLCvtc1yV0Q?si=e977a536329d4f81)。
-- [做伙來講台語、SŃG KAH 烏MÀMÀ！](https://open.spotify.com/show/7HZ4PA6wmN44ge4fIro09I?si=290774b0536d4b02)。
-- [公視台語台PODCAST](https://open.spotify.com/show/2CBb1KwU0S7AEudvybK9Wt?si=0825391294784b83)。
-- [叔姨講臺語](https://open.spotify.com/show/7xE4X7PKSvBfchV6XtYdup?si=8587920bb57e44b2)。
-- [台味 Taibee](https://open.spotify.com/show/1XYo4gZ9UkXv52DBFk5C07?si=9d376ba224444739)。
-- [台女講台 Tâi-lí Káng-tâi](https://open.spotify.com/show/1hg2NY22TvEexh1afdISeh?si=353084946fce4e12)。
-- [台灣人台灣事](https://open.spotify.com/show/1riqgeewHDTr586irRkE44?si=e84f566912724a3c)。
-- [台灣日常](https://open.spotify.com/show/6WpEengoYqD1p044aK1bLp?si=920a86f962084bda)。
-- [台語tsin輾轉](https://open.spotify.com/show/2vuk6eixyAUSTsMjDh6UCZ?si=c15f5808415249d0)。
-- [台語囡仔古](https://open.spotify.com/show/5pQE05QM6BsdXQAyGAt5Iv?si=13c835d74cbc4f78)。
-- [台語報你知](https://open.spotify.com/playlist/2hMcqgQ9aLVp8A0kn700aL?si=fe748be4de114018)。
-- [台語探討](https://open.spotify.com/show/1JpmZRMXDiL4VjgguLuJHJ?si=79640e55b59243ed)。
-- [台語開槓吃便當](https://open.spotify.com/show/2jtWZHPqWKdEY1tZVV81S3?si=511d4ff0b79543d8)。
-- [台語阿國哥](https://open.spotify.com/show/6wgn8wsKVDuDLUnBv04NjZ?si=71455cf2615b451b)。
-- [啪客頻出聲｜講台語啦！](https://open.spotify.com/show/1lZYmUHeGynGVrSgRKwhGY?si=629920ffd6684c6d)。
-- [土豆仁與圓仔花](https://open.spotify.com/show/5jNPY2plC4ar2C4KZA1jWo?si=fa11ed99b43b4c46)。
-- [大倫有大量](https://open.spotify.com/show/6lCfPC82ScdFkiZ7has990?si=e6ddb77b89624759)。
-- [奕齊上下班](https://open.spotify.com/show/1odmHWsaplurDhKytZG1ZJ?si=7cf585460ffc42e1)。
-- [好書開講 阿嬤講古予你聽 ～ 台語繪本唸讀](https://open.spotify.com/show/0wsOnYZi6pw81h0pmu4qWT?si=e1cbb05bb1a04672)。
-- [妮妮說故事](https://open.spotify.com/show/3EbzF0hlVw8ffLRuX5bwIs?si=e1902547a73b4277)。
-- [宗佑民俗文化讚](https://open.spotify.com/show/7IbVvhDCX3zD1ui4v1JFnk?si=ecb3cb5e166e4452)。
-- [寶島少年兄](https://open.spotify.com/show/1QIHwF3IvENyJ0m2yzJ8fA?si=88d8b711ad044f25)。
-- [尪某答嘴鼓](https://open.spotify.com/show/4SSexPH4k9j3ofj3ci2Mtf?si=75e16e3956304941)。
-- [巷仔口的臺語](https://open.spotify.com/show/0jfBrjXWVsEutSrYT9PSbo?si=aa29090610ed4223)。
-- [布袋戲，講予恁聽](https://open.spotify.com/show/6fK0CeY1j21b7A4nKcRT1t?si=316f7d08345143f1)。
-- [微微笑台語播客](https://open.spotify.com/show/1ustLlntTnvJ7vOMi6S4rR?si=b848e05801194c0e)。
-- [心肝放予鬆](https://open.spotify.com/show/1Zpa4DJXKGfwLLJ5LONv8B?si=e49158c68bc945ff)。
-- [戀戀曾文溪-78轉音樂廣播劇](https://open.spotify.com/show/3ElrJbo0HjzUengOcM3JtC?si=00f13f40da2644ef)。
-- [戀戀曾文溪-馬哈三合院繪本](https://open.spotify.com/show/2tTiZvPUHPBpBz6iXkhcVm?si=52d71d35ad6f44a9)。
-- [故事雜菜羹](https://open.spotify.com/show/24eLkVzQYkkiUF4AR8TVvs?si=7ae52ce05a3a4db6)。
-- [文學Tân雷公(陳雷台語文學)](https://open.spotify.com/show/1jDC1cpmC5eZ2WMCUzpmcg?si=aa1eaa0253cf4413)。
-- [曼城里長辦公室 Bān-siâⁿ lí-tiúⁿ pān-kong-sek](https://open.spotify.com/show/58Oc2VYAr8Ba0WdQhC7gTA?si=12b57b0e39b944f4)。
-- [李講古我來聽 Lee kóng-kóo guá lâi thiann](https://open.spotify.com/show/550cQ9ZK47daVBiHFDnRuh?si=7e12345faea64205)。
-- [水獺媽媽巧巧話](https://open.spotify.com/show/06fXdjNXspAe1QLML8EsAv?si=8cb667eea83e4cba)。
-- [浪鳥集](https://open.spotify.com/show/56b5Tdg6eW3Opod2jbYV0J?si=a6e9a7de33614b54)。
-- [牽囡仔 ê 手，來聽囡仔古](https://open.spotify.com/show/6aMEHrQ0zwCU3bDZeUQaEl?si=b581ca70cf2440db)。
-- [科博做伙講](https://open.spotify.com/show/5PQJM19Gh72jTQXoHJhyB2?si=da8c9ffc76df44d4)。
-- [童話透中島](https://open.spotify.com/show/1Tx6ZDhuSDr9aMLUtj4mHU?si=050f6314b3284fee)。
-- [耶穌講台語](https://open.spotify.com/show/2MHUphxcPDJHSIna4WZpNT?si=d1d1c1dae42e4932)。
-- [肥宅熊的台語日常雜記 Bear’s Taiwanese talk](https://open.spotify.com/show/60ixueWwU5etuCtVqkzNcN?si=84d390921ef6429c)。
-- [英學宇宙eng-ha̍k-ú-tiū](https://open.spotify.com/show/4OPFQwpSRuCZqG1KcrpHEK?si=3a9fef076e094ef3)。
-- [豪洨亭仔跤](https://open.spotify.com/show/3J5bm7p2F6gmMYL2zJOVTl?si=3c354d06f9384ed1)。
-- [逐工一幅天文圖 APOD Taigi](https://open.spotify.com/show/2HPCBScM4aJfij0X8C2v0B?si=21d87c6a35cd401d)。
-- [邊友愛講話 pîng-iú ài kóng-uē](https://open.spotify.com/show/1839iTni8QXQ7zR6HYoE4G?si=c7d6bbd9b13d44c8)。
-- [錦荔枝的滋味](https://open.spotify.com/show/32KcOUbPrwPna23I87BKIl?si=c85c3c639c65450e)。
-- [阮劇團 Our Theatre 這聲好啊！](https://open.spotify.com/show/41tPh78QVIx4HkA3Xh42o0?si=ac6b6f05330b42a5)。
-- [阿愷之聲](https://open.spotify.com/show/5XrUHmcAPJBcB7O7IZoXZQ?si=d5084ef6891d4fab)。
-- [飯桌仔](https://open.spotify.com/show/1riLl314zOtqUV7kp2RYau?si=ecf93652b2da4d24)。
-- [魚夫的世界](https://open.spotify.com/show/1bbl94RlfIEAYh4sYOgQvt?si=89ce59148ce9419e)。
-- [黃越綏 《恁祖媽來了》](https://open.spotify.com/show/1bhbcJx6R3PqJYUsxLkMQ7?si=b6a5b3ceda6d4b78)。
-- [龜邸家 Good Job](https://open.spotify.com/show/6moGG2gBjXsRm8awcLSA7V?si=c055fed65eca4772)。
-
 ## Facebook 面冊 Bīn-tsheh
 
 - [ChhoeTaigi 找台語 - 台語辭典、字詞資料庫](https://www.facebook.com/ChhoeTaigi)。
@@ -132,78 +70,6 @@ Tse sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tua
 - [風魅緋孤 - 台語文僧侶 wololo](https://www.facebook.com/fumi420/)。
 - [麒麟鹿臺語](https://www.facebook.com/profile.php?id=100090419670937)。
 - [龜邸家 Good Job](https://www.facebook.com/people/%E9%BE%9C%E9%82%B8%E5%AE%B6-Good-Job/100069003586890/)。
-
-## Instagram
-
-- [rinriringo](https://instagram.com/rinriringo)。
-- [余青 Î Tshing](https://www.instagram.com/_itshing)
-- [公視台語台/公視臺語台](https://www.instagram.com/kongsitaigitai)。
-- [出外講台語](https://www.instagram.com/chhut_goa_kong_tai_gi/)。
-- [台南妹仔教你講台語](https://instagram.com/a_yo__oy_a)。
-- [台文博覽會 TÂI-BÛN EXPO](https://www.instagram.com/taibunexpo/)。
-- [台文通訊：30冬紀念特刊](https://www.instagram.com/tbths30tang/)。
-- [台文雞絲麵](https://www.instagram.com/taibunkesimi/)。
-- [台語tsín袂輾轉🐢](https://www.instagram.com/easy_taiwanese/)。
-- [台語巢計畫](https://www.instagram.com/taigi_tsau)。
-- [台語日常](https://www.instagram.com/taigijitsiong/)。
-- [水獺媽媽巧慧與她的小夥伴](https://www.instagram.com/ottermamachiao/)。
-- [洛津粟鳥仔丨鹿港腔小教室](https://www.instagram.com/lok_tin_sparrow/)。
-- [講台語過日 kóng Tâi-gí kuè-ji̍t](https://www.instagram.com/taigi_kuejit/)。
-- [逐工一幅天文圖 Apod Taigi](https://www.instagram.com/apod_taigi/)。
-- [逐工講台語](https://www.instagram.com/takkangkongtaigi/)。
-- [鄭順聰](https://www.instagram.com/jinsingkhahsutsitkusi/)。
-- [阿東的哩哩叩叩 台語小教室](https://www.instagram.com/lilicoco_tong/)。
-- [鳥仔 ê 名](https://www.instagram.com/siansiansu/)。
-
-## Twitter
-
-- [A-bêng](https://twitter.com/beng_ming)。
-- [Blues🟩BuLùSuh🐳Siá-Tâi-bûn](https://twitter.com/blues__tw?s=21)。
-- [Hena Ma](https://twitter.com/HenaMa3)。
-- [Pofat kóng code](https://twitter.com/pofat_kongcode)。
-- [Tiuⁿ Tiat-ûi｜デュン　デッウイ](https://twitter.com/AhongTaioan)。
-- [Tó-sū ê Tâi-gí Chhia-pang 島嶼ê台語車幫](https://twitter.com/TSTGCP)。
-- [Àm-kong-chiáu暗光鳥-台語有字-抗中保台](https://twitter.com/am3kongchiau2)。
-- [Êng-an](https://twitter.com/satsangdance)。
-- [Ì-THUÂN 意傳科技](https://twitter.com/Ithuan_Tw)。
-- [公視台語台/公視臺語台](https://twitter.com/ptstaigi)。
-- [台文博覽會 TÂI-BÛN EXPO](https://twitter.com/taibunexpo)。
-- [台文通訊：30冬紀念特刊](https://twitter.com/tbths30tang)。
-- [成大台語囡仔古](https://twitter.com/TaigiGinakoo)。
-- [逐工一幅天文圖 APOD Taiwanese](https://twitter.com/ApodTaigi)。
-
-## Youtube
-
-- [WaWa TV](https://www.youtube.com/c/WaWaTV/about)。
-- [【民視台灣學堂】台語講世事](https://www.youtube.com/playlist?list=PLe8vfIFNtjRdtsPxY3r-Q644ipqw9bFKC)。
-- [【民視台灣學堂】講台語當著時](https://www.youtube.com/playlist?list=PLe8vfIFNtjRcbTvj_qwwwxbaaeIukdZTE)。
-- [公視台語台 寶島鼓仔燈](https://www.youtube.com/playlist?list=PL9X_7mTn8zvWg9cVSt2T8hjzUnyHK4wdz)。
-- [公視台語台 逐工一句](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVgHumZgDjIGUsjx54VIDRn)。
-- [公視台語台新聞](https://www.youtube.com/channel/UCNQ4H3GxXOpvXEDSSd7NVOg)。
-- [公視台語台網路直播(部分節目無版權) Tai-gi Live](https://www.youtube.com/watch?v=cnYQ_z7QfxE)。
-- [台南妹仔教你講台語](https://www.youtube.com/channel/UCAEWlYbdwc2d7lAr9FUNf-g)。
-- [台文博覽會 TÂI-BÛN EXPO](https://www.youtube.com/@tai-bunexpo1021)。
-- [林昶佐 Freddy Lim](https://www.youtube.com/@limfreddy)。
-- [民視台灣學堂](https://www.youtube.com/channel/UC1uiz8Yg9vqDIMuZg-QtbDg)。
-- [華視台語頻道](https://www.youtube.com/c/華視台語頻道)。
-- [華視台語頻道【台語tsin輾轉】](https://www.youtube.com/playlist?list=PLBorC_Ux-N44_JT5t35KjbNAy9OyCVn5B)。
-- [華視台語頻道【台語字 珍趣味】](https://www.youtube.com/playlist?list=PLBorC_Ux-N46FMMIqeABuLQA9Aa3Kk2Rb)。
-- [足英台三聲道磅米芳](https://www.youtube.com/channel/UCUUwc_MNOZdwssxvt9U1d0g)。
-- [郭玟成](https://www.youtube.com/channel/UCy0i45vRC278tnKz51gtBUg)。
-- [鏡新聞 👨‍🏫台語新聞Tâi-gí sin-bûn](https://www.youtube.com/playlist?list=PL1jBQxu5Eklfor6Q3feEoW9IzXou1yFBN)：台語聽有無，逐工報新詞。大代誌看鏡，帶您做夥用台灣話來看全世界。
-- [🍵 親戚不計較 火熱跟播中](https://www.youtube.com/playlist?list=PL02zpjjwMEjpxvDiFaLdTLyvcjto81O9r)。
-- 公視台語台 解文說字（[2019](https://www.youtube.com/playlist?list=PL9X_7mTn8zvXgzFo3UQFwc00OrtKUTh4h)、[2020上](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVCQTRjHF47JKpJhotMGTGn)、[2020下](https://www.youtube.com/playlist?list=PL9X_7mTn8zvXFrlHlOcMUr-zPyJ0QwBH4)、[2021](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVJoACabYZef464RsUd8uC2)、[2022](https://www.youtube.com/playlist?list=PL9X_7mTn8zvUeqQVCiHrn36J35cFsjPP7)）。
-
-## Blog
-
-- [阿表(A-Pió) 分享的食譜 - 愛料理](https://icook.tw/users/acb9d8997d3268f3)。
-
-## 論壇 Lūn-tuânn
-
-- [對囡仔講台語](https://www.facebook.com/groups/tuiginakongtaigu/)。
-- [臺語社](https://www.facebook.com/groups/120852554658610)。
-- [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)。
-- [大同仔台語社](https://www.facebook.com/groups/155700859812570/)
 
 ## 台語書 Tâi-gí-tsheh
 
@@ -264,6 +130,135 @@ Tse sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tua
 - [驚驚袂著等：劉靜娟的台語時間 - 劉靜娟](https://www.books.com.tw/products/0010854510)。
 - [高雄二二八 - 吳家銘](https://www.books.com.tw/products/0010876101)。
 
+## Instagram
+
+- [rinriringo](https://instagram.com/rinriringo)。
+- [余青 Î Tshing](https://www.instagram.com/_itshing)
+- [公視台語台/公視臺語台](https://www.instagram.com/kongsitaigitai)。
+- [出外講台語](https://www.instagram.com/chhut_goa_kong_tai_gi/)。
+- [台南妹仔教你講台語](https://instagram.com/a_yo__oy_a)。
+- [台文博覽會 TÂI-BÛN EXPO](https://www.instagram.com/taibunexpo/)。
+- [台文通訊：30冬紀念特刊](https://www.instagram.com/tbths30tang/)。
+- [台文雞絲麵](https://www.instagram.com/taibunkesimi/)。
+- [台語tsín袂輾轉🐢](https://www.instagram.com/easy_taiwanese/)。
+- [台語巢計畫](https://www.instagram.com/taigi_tsau)。
+- [台語日常](https://www.instagram.com/taigijitsiong/)。
+- [水獺媽媽巧慧與她的小夥伴](https://www.instagram.com/ottermamachiao/)。
+- [洛津粟鳥仔丨鹿港腔小教室](https://www.instagram.com/lok_tin_sparrow/)。
+- [講台語過日 kóng Tâi-gí kuè-ji̍t](https://www.instagram.com/taigi_kuejit/)。
+- [逐工一幅天文圖 Apod Taigi](https://www.instagram.com/apod_taigi/)。
+- [逐工講台語](https://www.instagram.com/takkangkongtaigi/)。
+- [鄭順聰](https://www.instagram.com/jinsingkhahsutsitkusi/)。
+- [阿東的哩哩叩叩 台語小教室](https://www.instagram.com/lilicoco_tong/)。
+- [鳥仔 ê 名](https://www.instagram.com/siansiansu/)。
+
+## Podcast
+
+- [3Q陳柏惟](https://open.spotify.com/show/5bp0D3kANSE8yq7dubLo5m?si=b12192374ebc4dc6)。
+- [60%台語幹話王](https://open.spotify.com/show/1jj63FH0JcUelu1Euiz0fa?si=b727d5bd551344be)。
+- [PiA的台語手摺簿仔](https://open.spotify.com/show/26AwP1CLBmlP8YNL9BrWhY?si=1859032730cf4450)。
+- [亞特聊聊天](https://open.spotify.com/show/102SpIisn4mOLCvtc1yV0Q?si=e977a536329d4f81)。
+- [做伙來講台語、SŃG KAH 烏MÀMÀ！](https://open.spotify.com/show/7HZ4PA6wmN44ge4fIro09I?si=290774b0536d4b02)。
+- [公視台語台PODCAST](https://open.spotify.com/show/2CBb1KwU0S7AEudvybK9Wt?si=0825391294784b83)。
+- [叔姨講臺語](https://open.spotify.com/show/7xE4X7PKSvBfchV6XtYdup?si=8587920bb57e44b2)。
+- [台味 Taibee](https://open.spotify.com/show/1XYo4gZ9UkXv52DBFk5C07?si=9d376ba224444739)。
+- [台女講台 Tâi-lí Káng-tâi](https://open.spotify.com/show/1hg2NY22TvEexh1afdISeh?si=353084946fce4e12)。
+- [台灣人台灣事](https://open.spotify.com/show/1riqgeewHDTr586irRkE44?si=e84f566912724a3c)。
+- [台灣日常](https://open.spotify.com/show/6WpEengoYqD1p044aK1bLp?si=920a86f962084bda)。
+- [台語tsin輾轉](https://open.spotify.com/show/2vuk6eixyAUSTsMjDh6UCZ?si=c15f5808415249d0)。
+- [台語囡仔古](https://open.spotify.com/show/5pQE05QM6BsdXQAyGAt5Iv?si=13c835d74cbc4f78)。
+- [台語報你知](https://open.spotify.com/playlist/2hMcqgQ9aLVp8A0kn700aL?si=fe748be4de114018)。
+- [台語探討](https://open.spotify.com/show/1JpmZRMXDiL4VjgguLuJHJ?si=79640e55b59243ed)。
+- [台語開槓吃便當](https://open.spotify.com/show/2jtWZHPqWKdEY1tZVV81S3?si=511d4ff0b79543d8)。
+- [台語阿國哥](https://open.spotify.com/show/6wgn8wsKVDuDLUnBv04NjZ?si=71455cf2615b451b)。
+- [啪客頻出聲｜講台語啦！](https://open.spotify.com/show/1lZYmUHeGynGVrSgRKwhGY?si=629920ffd6684c6d)。
+- [土豆仁與圓仔花](https://open.spotify.com/show/5jNPY2plC4ar2C4KZA1jWo?si=fa11ed99b43b4c46)。
+- [大倫有大量](https://open.spotify.com/show/6lCfPC82ScdFkiZ7has990?si=e6ddb77b89624759)。
+- [奕齊上下班](https://open.spotify.com/show/1odmHWsaplurDhKytZG1ZJ?si=7cf585460ffc42e1)。
+- [好書開講 阿嬤講古予你聽 ～ 台語繪本唸讀](https://open.spotify.com/show/0wsOnYZi6pw81h0pmu4qWT?si=e1cbb05bb1a04672)。
+- [妮妮說故事](https://open.spotify.com/show/3EbzF0hlVw8ffLRuX5bwIs?si=e1902547a73b4277)。
+- [宗佑民俗文化讚](https://open.spotify.com/show/7IbVvhDCX3zD1ui4v1JFnk?si=ecb3cb5e166e4452)。
+- [寶島少年兄](https://open.spotify.com/show/1QIHwF3IvENyJ0m2yzJ8fA?si=88d8b711ad044f25)。
+- [尪某答嘴鼓](https://open.spotify.com/show/4SSexPH4k9j3ofj3ci2Mtf?si=75e16e3956304941)。
+- [巷仔口的臺語](https://open.spotify.com/show/0jfBrjXWVsEutSrYT9PSbo?si=aa29090610ed4223)。
+- [布袋戲，講予恁聽](https://open.spotify.com/show/6fK0CeY1j21b7A4nKcRT1t?si=316f7d08345143f1)。
+- [微微笑台語播客](https://open.spotify.com/show/1ustLlntTnvJ7vOMi6S4rR?si=b848e05801194c0e)。
+- [心肝放予鬆](https://open.spotify.com/show/1Zpa4DJXKGfwLLJ5LONv8B?si=e49158c68bc945ff)。
+- [戀戀曾文溪-78轉音樂廣播劇](https://open.spotify.com/show/3ElrJbo0HjzUengOcM3JtC?si=00f13f40da2644ef)。
+- [戀戀曾文溪-馬哈三合院繪本](https://open.spotify.com/show/2tTiZvPUHPBpBz6iXkhcVm?si=52d71d35ad6f44a9)。
+- [故事雜菜羹](https://open.spotify.com/show/24eLkVzQYkkiUF4AR8TVvs?si=7ae52ce05a3a4db6)。
+- [文學Tân雷公(陳雷台語文學)](https://open.spotify.com/show/1jDC1cpmC5eZ2WMCUzpmcg?si=aa1eaa0253cf4413)。
+- [曼城里長辦公室 Bān-siâⁿ lí-tiúⁿ pān-kong-sek](https://open.spotify.com/show/58Oc2VYAr8Ba0WdQhC7gTA?si=12b57b0e39b944f4)。
+- [李講古我來聽 Lee kóng-kóo guá lâi thiann](https://open.spotify.com/show/550cQ9ZK47daVBiHFDnRuh?si=7e12345faea64205)。
+- [水獺媽媽巧巧話](https://open.spotify.com/show/06fXdjNXspAe1QLML8EsAv?si=8cb667eea83e4cba)。
+- [浪鳥集](https://open.spotify.com/show/56b5Tdg6eW3Opod2jbYV0J?si=a6e9a7de33614b54)。
+- [牽囡仔 ê 手，來聽囡仔古](https://open.spotify.com/show/6aMEHrQ0zwCU3bDZeUQaEl?si=b581ca70cf2440db)。
+- [科博做伙講](https://open.spotify.com/show/5PQJM19Gh72jTQXoHJhyB2?si=da8c9ffc76df44d4)。
+- [童話透中島](https://open.spotify.com/show/1Tx6ZDhuSDr9aMLUtj4mHU?si=050f6314b3284fee)。
+- [耶穌講台語](https://open.spotify.com/show/2MHUphxcPDJHSIna4WZpNT?si=d1d1c1dae42e4932)。
+- [肥宅熊的台語日常雜記 Bear’s Taiwanese talk](https://open.spotify.com/show/60ixueWwU5etuCtVqkzNcN?si=84d390921ef6429c)。
+- [英學宇宙eng-ha̍k-ú-tiū](https://open.spotify.com/show/4OPFQwpSRuCZqG1KcrpHEK?si=3a9fef076e094ef3)。
+- [豪洨亭仔跤](https://open.spotify.com/show/3J5bm7p2F6gmMYL2zJOVTl?si=3c354d06f9384ed1)。
+- [逐工一幅天文圖 APOD Taigi](https://open.spotify.com/show/2HPCBScM4aJfij0X8C2v0B?si=21d87c6a35cd401d)。
+- [邊友愛講話 pîng-iú ài kóng-uē](https://open.spotify.com/show/1839iTni8QXQ7zR6HYoE4G?si=c7d6bbd9b13d44c8)。
+- [錦荔枝的滋味](https://open.spotify.com/show/32KcOUbPrwPna23I87BKIl?si=c85c3c639c65450e)。
+- [阮劇團 Our Theatre 這聲好啊！](https://open.spotify.com/show/41tPh78QVIx4HkA3Xh42o0?si=ac6b6f05330b42a5)。
+- [阿愷之聲](https://open.spotify.com/show/5XrUHmcAPJBcB7O7IZoXZQ?si=d5084ef6891d4fab)。
+- [飯桌仔](https://open.spotify.com/show/1riLl314zOtqUV7kp2RYau?si=ecf93652b2da4d24)。
+- [魚夫的世界](https://open.spotify.com/show/1bbl94RlfIEAYh4sYOgQvt?si=89ce59148ce9419e)。
+- [黃越綏 《恁祖媽來了》](https://open.spotify.com/show/1bhbcJx6R3PqJYUsxLkMQ7?si=b6a5b3ceda6d4b78)。
+- [龜邸家 Good Job](https://open.spotify.com/show/6moGG2gBjXsRm8awcLSA7V?si=c055fed65eca4772)。
+
+## Twitter
+
+- [A-bêng](https://twitter.com/beng_ming)。
+- [Blues🟩BuLùSuh🐳Siá-Tâi-bûn](https://twitter.com/blues__tw?s=21)。
+- [Hena Ma](https://twitter.com/HenaMa3)。
+- [Pofat kóng code](https://twitter.com/pofat_kongcode)。
+- [Tiuⁿ Tiat-ûi｜デュン　デッウイ](https://twitter.com/AhongTaioan)。
+- [Tó-sū ê Tâi-gí Chhia-pang 島嶼ê台語車幫](https://twitter.com/TSTGCP)。
+- [Àm-kong-chiáu暗光鳥-台語有字-抗中保台](https://twitter.com/am3kongchiau2)。
+- [Êng-an](https://twitter.com/satsangdance)。
+- [Ì-THUÂN 意傳科技](https://twitter.com/Ithuan_Tw)。
+- [公視台語台/公視臺語台](https://twitter.com/ptstaigi)。
+- [台文博覽會 TÂI-BÛN EXPO](https://twitter.com/taibunexpo)。
+- [台文通訊：30冬紀念特刊](https://twitter.com/tbths30tang)。
+- [成大台語囡仔古](https://twitter.com/TaigiGinakoo)。
+- [逐工一幅天文圖 APOD Taiwanese](https://twitter.com/ApodTaigi)。
+
+## Youtube
+
+- [WaWa TV](https://www.youtube.com/c/WaWaTV/about)。
+- [【民視台灣學堂】台語講世事](https://www.youtube.com/playlist?list=PLe8vfIFNtjRdtsPxY3r-Q644ipqw9bFKC)。
+- [【民視台灣學堂】講台語當著時](https://www.youtube.com/playlist?list=PLe8vfIFNtjRcbTvj_qwwwxbaaeIukdZTE)。
+- [公視台語台 寶島鼓仔燈](https://www.youtube.com/playlist?list=PL9X_7mTn8zvWg9cVSt2T8hjzUnyHK4wdz)。
+- [公視台語台 逐工一句](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVgHumZgDjIGUsjx54VIDRn)。
+- [公視台語台新聞](https://www.youtube.com/channel/UCNQ4H3GxXOpvXEDSSd7NVOg)。
+- [公視台語台網路直播(部分節目無版權) Tai-gi Live](https://www.youtube.com/watch?v=cnYQ_z7QfxE)。
+- [台南妹仔教你講台語](https://www.youtube.com/channel/UCAEWlYbdwc2d7lAr9FUNf-g)。
+- [台文博覽會 TÂI-BÛN EXPO](https://www.youtube.com/@tai-bunexpo1021)。
+- [林昶佐 Freddy Lim](https://www.youtube.com/@limfreddy)。
+- [民視台灣學堂](https://www.youtube.com/channel/UC1uiz8Yg9vqDIMuZg-QtbDg)。
+- [華視台語頻道](https://www.youtube.com/c/華視台語頻道)。
+- [華視台語頻道【台語tsin輾轉】](https://www.youtube.com/playlist?list=PLBorC_Ux-N44_JT5t35KjbNAy9OyCVn5B)。
+- [華視台語頻道【台語字 珍趣味】](https://www.youtube.com/playlist?list=PLBorC_Ux-N46FMMIqeABuLQA9Aa3Kk2Rb)。
+- [足英台三聲道磅米芳](https://www.youtube.com/channel/UCUUwc_MNOZdwssxvt9U1d0g)。
+- [郭玟成](https://www.youtube.com/channel/UCy0i45vRC278tnKz51gtBUg)。
+- [鏡新聞 👨‍🏫台語新聞Tâi-gí sin-bûn](https://www.youtube.com/playlist?list=PL1jBQxu5Eklfor6Q3feEoW9IzXou1yFBN)：台語聽有無，逐工報新詞。大代誌看鏡，帶您做夥用台灣話來看全世界。
+- [🍵 親戚不計較 火熱跟播中](https://www.youtube.com/playlist?list=PL02zpjjwMEjpxvDiFaLdTLyvcjto81O9r)。
+- 公視台語台 解文說字（[2019](https://www.youtube.com/playlist?list=PL9X_7mTn8zvXgzFo3UQFwc00OrtKUTh4h)、[2020上](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVCQTRjHF47JKpJhotMGTGn)、[2020下](https://www.youtube.com/playlist?list=PL9X_7mTn8zvXFrlHlOcMUr-zPyJ0QwBH4)、[2021](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVJoACabYZef464RsUd8uC2)、[2022](https://www.youtube.com/playlist?list=PL9X_7mTn8zvUeqQVCiHrn36J35cFsjPP7)）。
+
+## Blog
+
+- [阿表(A-Pió) 分享的食譜 - 愛料理](https://icook.tw/users/acb9d8997d3268f3)。
+
+## 論壇 Lūn-tuânn
+
+- [對囡仔講台語](https://www.facebook.com/groups/tuiginakongtaigu/)。
+- [臺語社](https://www.facebook.com/groups/120852554658610)。
+- [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)。
+- [大同仔台語社](https://www.facebook.com/groups/155700859812570/)
+
 ## 台語歌 Tâi-gí-kua
 
 - [台客原語歌](https://open.spotify.com/playlist/4ltBMoHCEXvUO3zb0mcgrP?si=16a3222fb5a74b77)。
@@ -281,6 +276,11 @@ Tse sī o̍h Tâi-gí sî ē-sái tsham-khó ê ha̍k-si̍p chu-guân tshing-tua
 - [台語文記憶](http://210.240.194.97/memory/TGB/mowt.asp)。
 - [歌仔冊語唸歌 - 國立台灣大學數位典藏館](https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/page/home)。
 - [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/)（無支援 Firefox）。
+
+## 認證考試 Jīn-tsìng Khó-tshì
+
+- [全民台語認證](https://ctlt.twl.ncku.edu.tw/gtpt/index.html)。
+- [閩南語語言能力認證考試](https://blgjts.moe.edu.tw/tmt/index.php)。
 
 ## Anki 單字卡 tan-jī-khah
 
