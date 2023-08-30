@@ -291,4 +291,6 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 ---
 
+## 標籤 phiau-tshiam
+
 #台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan
