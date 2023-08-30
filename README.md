@@ -1,7 +1,5 @@
 # [學台語 Oh Tâi-gí](https://github.com/siansiansu/oh-tai-gi)
 
-#台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan
-
 ![E90D68E7-42DE-44C8-8E62-37231A7AE2BB_1_201_a](https://github.com/siansiansu/oh-tai-gi/assets/33391637/099de601-0e54-44d2-b5b2-e848117ce336)
 
 這 ê 清單整理誠濟學習台語 ê 資源，你若有建議的教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是留言共我講，多謝 🙇‍♂️！
@@ -290,3 +288,7 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 - [台語美聲/台灣媠聲/ Beautiful Taiwanese](https://ankiweb.net/shared/info/741273519)。
 - [臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)。
+
+---
+
+#台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan
