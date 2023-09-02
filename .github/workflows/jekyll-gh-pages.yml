@@ -8,7 +8,7 @@ on:
   repository_dispatch:
 
 env:
-  URL: ${{ github.event.repository.name }}
+  URL: https:\/\/siansiansu.github.io\/oh-tai-gi
   DESCRIPTION: 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann
 
 permissions:
