@@ -1,4 +1,4 @@
-# [學台語 Oh Tâi-gí | 學習台語 ê 清單](https://github.com/siansiansu/oh-tai-gi)
+# 學台語 Oh Tâi-gí | 學習台語 ê 清單
 
 ![E90D68E7-42DE-44C8-8E62-37231A7AE2BB_1_201_a](https://github.com/siansiansu/oh-tai-gi/assets/33391637/099de601-0e54-44d2-b5b2-e848117ce336)
 
