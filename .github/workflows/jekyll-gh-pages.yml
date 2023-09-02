@@ -8,7 +8,7 @@ on:
   repository_dispatch:
 
 env:
-  REPO_URL: https:\/\/siansiansu.github.io\/oh-tai-gi
+  REPO_URL: https:\/\/siansiansu.github.io
   DESCRIPTION: 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann
 
 permissions:
