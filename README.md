@@ -1,16 +1,22 @@
-# [學台語 Oh Tâi-gí](https://github.com/siansiansu/oh-tai-gi)
+# [學台語 Oh Tâi-gí | 學習台語 ê 清單](https://github.com/siansiansu/oh-tai-gi)
 
 ![E90D68E7-42DE-44C8-8E62-37231A7AE2BB_1_201_a](https://github.com/siansiansu/oh-tai-gi/assets/33391637/099de601-0e54-44d2-b5b2-e848117ce336)
 
-這 ê 清單整理誠濟學習台語 ê 資源，你若有建議的教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是留言共我講，多謝 🙇‍♂️！
+這 ê 清單整理誠濟學習台語 ê 資源，你若有建議 ê 教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是佇下跤留言共我講，多謝！
 
-Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī liû-giân kā guá kóng, to-siā 🙇‍♂️!
+Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī tī ē-kha liû-giân kā guá kóng, to-siā!
 
 ## 揣字 Tshuē-jī
 
 - [ChhoeTaigi 找台語](https://chhoe.taigi.info/)。
+- [Tw-Ch台文中文辭典](http://ip194097.ntcu.edu.tw/q/q.asp)。
 - [iTaigi 愛台語](https://itaigi.tw/)。
+- [台語線頂字典](http://ip194097.ntcu.edu.tw/TG/jitian/tgjt.asp)。
+- [台語語詞檢索](http://ip194097.ntcu.edu.tw/TG/concordance/form.asp)。
+- [白話字字數統計](http://ip194097.ntcu.edu.tw/nmtl/dadwt/count.htm)。
+- [白話字發音](http://ip194097.ntcu.edu.tw/tts/tts.asp)。
 - [臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/)。
+- [部落格台語側欄](http://ip194097.ntcu.edu.tw/TG/CK/chhahkiann.asp)。
 
 ## 輸入法 Phah-jī-huat
 
@@ -92,6 +98,7 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [台語每日一句─落台語俗諺很簡單：學台語俗諺，參加閩南語競賽和認證更加分！ - 許晉彰, 盧玉雯](https://www.books.com.tw/products/0010920395)。
 - [台語現代小說選 - 郭頂順, 蔡秋桐, 蘇德興, 楊逵, 賴和, 陳明仁, 陳雷, 王貞文, 胡長松, 胡民祥, 陳正雄, 藍春瑞, 林美麗, 王羅蜜多](https://www.books.com.tw/products/0010925436)。
 - [台語的鄉土口味—俗諺、俚語 - 顏勝堂](https://www.books.com.tw/products/0010901557)。
+- [台語解放記事：寫給台灣人的「華語腦」翻轉指南 - 石牧民](https://www.books.com.tw/products/0010966776)。
 - [咱來讀讀 - 王秀容](https://www.books.com.tw/products/0010945660)。
 - [喙講台語‧手寫台文 - 蔣為文](https://mhi.moe.edu.tw/infoList.jsp?ID=2&ID2=630)。
 - [囝仔王子 Gínná Ôngchú - 莊惠平譯](https://www.books.com.tw/products/0010884135)。
@@ -134,20 +141,46 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 ## Instagram
 
+- [Lài-tah台語文✏️](https://www.instagram.com/_lai_tah_taigi/)。
+- [Thn̂g-thn̂g 台語文寫作會](https://www.instagram.com/thngthng_taigi/)。
+- [Tân Tekjū](https://instagram.com/phokhibonggo)。
+- [Yokita Lim](https://instagram.com/yokita72)。
 - [rinriringo](https://instagram.com/rinriringo)。
 - [余青 Î Tshing](https://www.instagram.com/_itshing)
+- [做伙來講台語、SŃG KAH 烏MÀMÀ 好無？](https://www.instagram.com/o.mama228/)。
 - [公視台語台/公視臺語台](https://www.instagram.com/kongsitaigitai)。
 - [出外講台語](https://www.instagram.com/chhut_goa_kong_tai_gi/)。
 - [台南妹仔教你講台語](https://instagram.com/a_yo__oy_a)。
 - [台文博覽會 TÂI-BÛN EXPO](https://www.instagram.com/taibunexpo/)。
 - [台文通訊：30冬紀念特刊](https://www.instagram.com/tbths30tang/)。
 - [台文雞絲麵](https://www.instagram.com/taibunkesimi/)。
+- [台灣教會公報社書房 Tâi-oân Kàu-hōe Kong-pò-siā Chheh-pâng](https://www.instagram.com/pctpress_books/)。
+- [台語call雞精](https://www.instagram.com/calltsitsin/)。
 - [台語tsín袂輾轉🐢](https://www.instagram.com/easy_taiwanese/)。
+- [台語口座](https://www.instagram.com/taigi_sannhsim/)。
+- [台語好萊塢 _台語片 | 台語 | 文化](https://www.instagram.com/taiwanesehollywood/)。
+- [台語小學生](https://www.instagram.com/siohaksing/)。
+- [台語少年家](https://www.instagram.com/kongtaigi/)。
 - [台語巢計畫](https://www.instagram.com/taigi_tsau)。
 - [台語日常](https://www.instagram.com/taigijitsiong/)。
+- [台語海龜湯](https://www.instagram.com/tg.haikuthng/)。
+- [台語游泳池](https://www.instagram.com/taigi_swimmingpool/)。
+- [台語讀冊人](https://www.instagram.com/taigi.reader/)。
+- [咱kong台語](https://www.instagram.com/letstalktaiwanese/)。
+- [大同仔台語社](https://www.instagram.com/tai_tong_a/)。
+- [少女出張所| 台語](https://www.instagram.com/taigi_siaulu/)。
+- [島嶼ê台語車幫](https://www.instagram.com/tstgcp/)。
+- [戀戀台語](https://www.instagram.com/luanx2_taigi/)。
+- [成大台語囡仔古](https://www.instagram.com/sengtaitaigiginakoo/)。
+- [我林老師啦 | 台語練習](https://www.instagram.com/limlausu/)。
+- [檸檬公主｜台語學習](https://www.instagram.com/siataibun/)。
 - [水獺媽媽巧慧與她的小夥伴](https://www.instagram.com/ottermamachiao/)。
 - [洛津粟鳥仔丨鹿港腔小教室](https://www.instagram.com/lok_tin_sparrow/)。
+- [漉糊仔糜ê台語簿仔](https://www.instagram.com/lok_taigi/)。
+- [用台羅講台語](https://www.instagram.com/kimiko_tsai/)。
+- [畫台語 Uē Tâi-gí](https://www.instagram.com/ue_taigi/)。
 - [講台語過日 kóng Tâi-gí kuè-ji̍t](https://www.instagram.com/taigi_kuejit/)。
+- [逐家講台語Ta̍k-ke kóng Tâi-gí](https://www.instagram.com/letstalktaigi/)。
 - [逐工一幅天文圖 Apod Taigi](https://www.instagram.com/apod_taigi/)。
 - [逐工講台語](https://www.instagram.com/takkangkongtaigi/)。
 - [鄭順聰](https://www.instagram.com/jinsingkhahsutsitkusi/)。
@@ -231,6 +264,7 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 ## Youtube
 
 - [WaWa TV](https://www.youtube.com/c/WaWaTV/about)。
+- [Sally Taiwanese](https://www.youtube.com/@Sally-jb2cu)。
 - [【民視台灣學堂】台語講世事](https://www.youtube.com/playlist?list=PLe8vfIFNtjRdtsPxY3r-Q644ipqw9bFKC)。
 - [【民視台灣學堂】講台語當著時](https://www.youtube.com/playlist?list=PLe8vfIFNtjRcbTvj_qwwwxbaaeIukdZTE)。
 - [公視台語台 寶島鼓仔燈](https://www.youtube.com/playlist?list=PL9X_7mTn8zvWg9cVSt2T8hjzUnyHK4wdz)。
@@ -272,11 +306,21 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 ## 網站 Bāng-tsām
 
+- [Hoan-gêng kong-lîm Wikipedia](https://zh-min-nan.wikipedia.org/wiki/Th%C3%A2u-ia%CC%8Dh)。
+- [ÌTHUÂN KHOKI意傳科技](https://ithuan.tw/)。
 - [一個禮拜學好台羅拼音！](https://hackmd.io/@itk1523/1week-kip)。
+- [九年一貫鄉土語言教育  台語羅馬字進修教學網站](http://ip194097.ntcu.edu.tw/TG/TGLMJ/index.htm)。
 - [台灣民間文學歌仔册資料庫](https://db.nmtl.gov.tw/site4/s5/index)。
+- [台灣民間文學館](http://cls.lib.ntu.edu.tw/TFL2010/cht/cht_Manual.aspx)。
+- [台語(閩南語)字音字形比賽相關資料](http://ip194097.ntcu.edu.tw/jiimjiheng/jiimjiheng.asp)。
+- [台語天地 - 吳守禮教授網站](http://olddoc.tmu.edu.tw/chiaushin/index.html)。
+- [台語文數位典藏](http://ip194097.ntcu.edu.tw/nmtl/dadwt/pbk.asp)。
 - [台語文數位典藏資料庫](https://db.nmtl.gov.tw/site3/dindex)。
-- [台語文記憶](http://210.240.194.97/memory/TGB/mowt.asp)。
+- [台語文記憶](http://ip194097.ntcu.edu.tw/memory/TGB/mowt.asp)。
+- [台語羅馬字資料](http://ip194097.ntcu.edu.tw/chuliau/)。
+- [楊允言 ê 網站](http://ip194097.ntcu.edu.tw/ungian/ungian.asp)。
 - [歌仔冊語唸歌 - 國立台灣大學數位典藏館](https://dl.lib.ntu.edu.tw/s/kua-a-tsheh/page/home)。
+- [白話字台語文網站](http://ip194097.ntcu.edu.tw/taigu.asp)。
 - [臺灣閩南語羅馬字拼音教學網](https://tailo.moe.edu.tw/)（無支援 Firefox）。
 
 ## 認證考試 Jīn-tsìng Khó-tshì
@@ -293,4 +337,4 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 ## 標籤 phiau-tshiam
 
-#台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan
+ #台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan
