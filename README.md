@@ -158,7 +158,7 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [台語call雞精](https://www.instagram.com/calltsitsin/)。
 - [台語tsín袂輾轉🐢](https://www.instagram.com/easy_taiwanese/)。
 - [台語口座](https://www.instagram.com/taigi_sannhsim/)。
-- [台語好萊塢 _台語片 | 台語 | 文化](https://www.instagram.com/taiwanesehollywood/)。
+- [台語好萊塢 _台語片](https://www.instagram.com/taiwanesehollywood/)。
 - [台語小學生](https://www.instagram.com/siohaksing/)。
 - [台語少年家](https://www.instagram.com/kongtaigi/)。
 - [台語巢計畫](https://www.instagram.com/taigi_tsau)。
@@ -168,11 +168,11 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [台語讀冊人](https://www.instagram.com/taigi.reader/)。
 - [咱kong台語](https://www.instagram.com/letstalktaiwanese/)。
 - [大同仔台語社](https://www.instagram.com/tai_tong_a/)。
-- [少女出張所| 台語](https://www.instagram.com/taigi_siaulu/)。
+- [少女出張所](https://www.instagram.com/taigi_siaulu/)。
 - [島嶼ê台語車幫](https://www.instagram.com/tstgcp/)。
 - [戀戀台語](https://www.instagram.com/luanx2_taigi/)。
 - [成大台語囡仔古](https://www.instagram.com/sengtaitaigiginakoo/)。
-- [我林老師啦 | 台語練習](https://www.instagram.com/limlausu/)。
+- [我林老師啦](https://www.instagram.com/limlausu/)。
 - [檸檬公主｜台語學習](https://www.instagram.com/siataibun/)。
 - [水獺媽媽巧慧與她的小夥伴](https://www.instagram.com/ottermamachiao/)。
 - [洛津粟鳥仔丨鹿港腔小教室](https://www.instagram.com/lok_tin_sparrow/)。
