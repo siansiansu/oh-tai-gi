@@ -9,7 +9,7 @@ on:
 
 env:
   REPO_NAME: ${{ github.event.repository.name }}
-  DESCRIPTION: "台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann"
+  DESCRIPTION: 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann
 
 permissions:
   contents: read
@@ -37,7 +37,7 @@ jobs:
         run: |
           cp -r jekyll-theme/* .
           sed -i 's/siansiansu.github.io/siansiansu.github.io\/'''${REPO_NAME}'''/g' _config.yml
-          sed -i 's/description.*$/description: '''${DESCRIPTION}'''/g' _config.yml
+          sed -i "4s/.*/description: ${DESCRIPTION}/" _config.yml
           sed -i '1 i---\nlayout: home\n---\n' README.md
           cp README.md index.md
 
