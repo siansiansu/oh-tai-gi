@@ -8,7 +8,7 @@ on:
   repository_dispatch:
 
 env:
-  URL: https:\/\/siansiansu.github.io\/oh-tai-gi
+  REPO_URL: https:\/\/siansiansu.github.io\/oh-tai-gi
   DESCRIPTION: 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann
 
 permissions:
@@ -36,7 +36,7 @@ jobs:
       - name: Run
         run: |
           cp -r jekyll-theme/* .
-          sed -i "3s/.*/url: ${URL}/" _config.yml
+          sed -i "3s/.*/website: ${REPO_URL}/" _config.yml
           sed -i "4s/.*/description: ${DESCRIPTION}/" _config.yml
           sed -i '1 i---\nlayout: home\n---\n' README.md
           cp README.md index.md
