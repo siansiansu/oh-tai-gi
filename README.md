@@ -22,7 +22,10 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 - [FHL Taigi-Hakka IME 信望愛台語客語輸入法](https://taigi.fhl.net/TaigiIME/)。
 - [PhahTaigi 台語輸入法 (iOS)](https://apps.apple.com/tw/app/phahtaigi-%E5%8F%B0%E8%AA%9E%E8%BC%B8%E5%85%A5%E6%B3%95/id1455093650)。
-- [意傳台文輸入法](https://sujiphuat.ithuan.tw/)
+- [Taiwanese Package](https://taigi.fhl.net/TP/)。
+- [意傳台文輸入法](https://sujiphuat.ithuan.tw/)。
+- [教育部臺灣閩南語漢字輸入法](https://www.dgbas.gov.tw/public/Data/07311422271.pdf)。
+- [羅漢跤台語輸入法，Lô-hàn-kha Tâi-gú su-jı̍p-huat](https://lohankha.tw/)。
 
 ## Facebook 面冊 Bīn-tsheh
 

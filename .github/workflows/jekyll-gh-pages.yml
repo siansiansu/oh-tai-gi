@@ -9,7 +9,7 @@ on:
 
 env:
   PAGE_URL: https:\/\/siansiansu.github.io\/${{ github.event.repository.name }}
-  DESCRIPTION: 台語學習資源清單 Tâi-gí ha̍k-si̍p chu-guân tshing-tuann
+  DESCRIPTION: 這 ê 清單整理誠濟學習台語 ê 資源，你若有建議 ê 教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是佇下跤留言共我講，多謝！
 
 permissions:
   contents: read
