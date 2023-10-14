@@ -93,6 +93,7 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [佮/教我講台語單字卡 - 聚珍臺灣](https://www.eslite.com/product/1007345272682062520009)。
 - [八卦紅之心 - 林美麗](https://books.google.com.tw/books/about/%E5%85%AB%E5%8D%A6%E7%B4%85%E4%B9%8B%E5%BF%83.html?id=ZTyLswEACAAJ&redir_esc=y)。
 - [台味飄撇：食好料的所在 - 鄭順聰](https://www.books.com.tw/products/0010962848)。
+- [台文通訊：30冬紀念特刊 - 鄭良光, 陳雷, 吳家銘, 鄭智程, 紀品志, 林碧堂](https://www.books.com.tw/products/0010921424)。
 - [台灣我的祖國 - 胡長松](https://www.books.com.tw/products/0010923557)。
 - [台灣阿草：台灣史蹟草木台語詩集 - 王羅蜜多](https://www.books.com.tw/products/0010938469)。
 - [台語原來是這樣 - 粉紅色小屋](https://www.books.com.tw/products/0010666107)。
@@ -125,6 +126,7 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [海角恆春 - 陳金順](https://archive.ncafroc.org.tw/result;jsessionid=843346F64E888605280F93B6EB26228A?id=3508faa1fb55458897c66815b8dbc3c1)。
 - [灶雞仔 Tsàu-ke-á：台語短篇小說集 - 陳正雄](https://www.books.com.tw/products/0010888812)。
 - [白色ê甘蔗園 - 陳雷](https://pickbooks.com.tw/book/3_007387520?cd=1)。
+- [相招來學白話字套書（共三冊）- 鄭良光, 陳雷, 吳家銘, 鄭智程, 紀品志, 林碧堂](https://buy.pctpress.org/product/%E7%9B%B8%E6%8B%9B%E4%BE%86%E5%AD%B8%E7%99%BD%E8%A9%B1%E5%AD%97%E5%A5%97%E6%9B%B8%EF%BC%88%E5%85%B1%E4%B8%89%E5%86%8A%EF%BC%89/)。
 - [石頭縫的幸運草 - 林美麗](http://www.taiouan.com.tw/catalog/product_info.php?products_id=20987)。
 - [祝福的意思：等路台文版 - 洪明道](https://www.books.com.tw/products/0010899813)。
 - [秋蟬 - 陳金順](https://www.facebook.com/2booksite/posts/2488644274486232/?paipv=0&eav=AfY7WfUwm-0EbKl4-TOIplJBVhPFb7gT7SJr-WGm_fm0CfJd3tybDrAn3N6Zrm_VigI&_rdr)。
@@ -266,16 +268,19 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 ## Youtube
 
-- [WaWa TV](https://www.youtube.com/c/WaWaTV/about)。
+- [POJ Ki-Chhou 白話字基礎](https://www.youtube.com/playlist?list=PL_G_Ob084WFpe8MtRKj3Aop-i4fvMwlEC)。
 - [Sally Taiwanese](https://www.youtube.com/@Sally-jb2cu)。
+- [WaWa TV](https://www.youtube.com/c/WaWaTV/about)。
 - [【民視台灣學堂】台語講世事](https://www.youtube.com/playlist?list=PLe8vfIFNtjRdtsPxY3r-Q644ipqw9bFKC)。
 - [【民視台灣學堂】講台語當著時](https://www.youtube.com/playlist?list=PLe8vfIFNtjRcbTvj_qwwwxbaaeIukdZTE)。
+- [來學台語白話字](https://www.youtube.com/playlist?list=PLxpdI6PlRbFfEgZlts7p-otEABnoKsb1j)。
 - [公視台語台 寶島鼓仔燈](https://www.youtube.com/playlist?list=PL9X_7mTn8zvWg9cVSt2T8hjzUnyHK4wdz)。
 - [公視台語台 逐工一句](https://www.youtube.com/playlist?list=PL9X_7mTn8zvVgHumZgDjIGUsjx54VIDRn)。
 - [公視台語台新聞](https://www.youtube.com/channel/UCNQ4H3GxXOpvXEDSSd7NVOg)。
 - [公視台語台網路直播(部分節目無版權) Tai-gi Live](https://www.youtube.com/watch?v=cnYQ_z7QfxE)。
 - [台南妹仔教你講台語](https://www.youtube.com/channel/UCAEWlYbdwc2d7lAr9FUNf-g)。
 - [台文博覽會 TÂI-BÛN EXPO](https://www.youtube.com/@tai-bunexpo1021)。
+- [台語白話字基礎發音 Tâi-gí Pe̍h-ōe-jī Ki-chhó͘ Hoat-im](https://www.youtube.com/playlist?list=PLS1s7edHAnhau1ZYuJCDLCZllzNmMqwds)。
 - [林昶佐 Freddy Lim](https://www.youtube.com/@limfreddy)。
 - [民視台灣學堂](https://www.youtube.com/channel/UC1uiz8Yg9vqDIMuZg-QtbDg)。
 - [華視台語頻道](https://www.youtube.com/c/華視台語頻道)。
@@ -293,10 +298,10 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 ## 論壇 Lūn-tuânn
 
+- [大同仔台語社](https://www.facebook.com/groups/155700859812570/)
 - [對囡仔講台語](https://www.facebook.com/groups/tuiginakongtaigu/)。
 - [臺語社](https://www.facebook.com/groups/120852554658610)。
 - [食飽未Chia̍h pá ·bē!](https://chiahpa.be/)。
-- [大同仔台語社](https://www.facebook.com/groups/155700859812570/)
 
 ## 台語歌 Tâi-gí-kua
 
@@ -310,12 +315,16 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 ## 網站 Bāng-tsām
 
 - [Hoan-gêng kong-lîm Wikipedia](https://zh-min-nan.wikipedia.org/wiki/Th%C3%A2u-ia%CC%8Dh)。
+- [LÀU台語-瑞士Ê台語社](https://suisuetaigisia.blogspot.com/)。
 - [ÌTHUÂN KHOKI意傳科技](https://ithuan.tw/)。
+- [《咱來學臺灣閩南語》網路學習版（附音檔）](https://language.moe.gov.tw/files/people_files/tsuguan-book.pdf)。
 - [一個禮拜學好台羅拼音！](https://hackmd.io/@itk1523/1week-kip)。
 - [九年一貫鄉土語言教育  台語羅馬字進修教學網站](http://ip194097.ntcu.edu.tw/TG/TGLMJ/index.htm)。
 - [台灣民間文學歌仔册資料庫](https://db.nmtl.gov.tw/site4/s5/index)。
 - [台灣民間文學館](http://cls.lib.ntu.edu.tw/TFL2010/cht/cht_Manual.aspx)。
+- [台灣羅馬字協會](https://www.tlh.org.tw/)。
 - [台語(閩南語)字音字形比賽相關資料](http://ip194097.ntcu.edu.tw/jiimjiheng/jiimjiheng.asp)。
+- [台語台文基礎教材](https://oh.taigi.info/p/kauchai.html)。
 - [台語天地 - 吳守禮教授網站](http://olddoc.tmu.edu.tw/chiaushin/index.html)。
 - [台語文數位典藏](http://ip194097.ntcu.edu.tw/nmtl/dadwt/pbk.asp)。
 - [台語文數位典藏資料庫](https://db.nmtl.gov.tw/site3/dindex)。
@@ -337,7 +346,5 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)。
 
 ---
-
-## 標籤 phiau-tshiam
 
  #台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan
