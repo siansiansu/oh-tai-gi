@@ -344,7 +344,3 @@ Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 - [台語美聲/台灣媠聲/ Beautiful Taiwanese](https://ankiweb.net/shared/info/741273519)。
 - [臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)。
-
----
-
- #台語 #台文 #台話 #台灣 #臺羅 #台灣話 #台灣語 #白話字 #台語羅馬字 #pe̍h-uē-jī #tâi-lô #tâi-uē #tâi-uân-uē #tâi-gí #tâi-uân-gí #taiwan
