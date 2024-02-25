@@ -1,12 +1,13 @@
 # 學台語 Oh Tâi-gí - 台語學習資源整理
 
+![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&link=https%3A%2F%2Fgithub.com%2Fsiansiansu%2Foh-tai-gi)
 [![hackmd-github-sync-badge](https://hackmd.io/E2ZJao2KRR2GWE0WlBlsdg/badge)](https://hackmd.io/E2ZJao2KRR2GWE0WlBlsdg)
 
 ![E90D68E7-42DE-44C8-8E62-37231A7AE2BB_1_201_a](https://github.com/siansiansu/oh-tai-gi/assets/33391637/099de601-0e54-44d2-b5b2-e848117ce336)
 
-這 ê 清單整理誠濟學習台語 ê 資源，你若有建議 ê 教材，歡迎使用 Pull Request 來補充不足 ê 部分，抑是佇下跤留言共我講，多謝！
+這 ê 清單整理誠濟學習台語 ê 資源，你若有建議 ê 教材，歡迎佇下跤留言共我講，多謝！
 
-Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng sú-iōng Pull Request lâi póo-tshiong put-tsiok ê pōo-hūn, ia̍h-sī tī ē-kha liû-giân kā guá kóng, to-siā!
+Tsit ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng tī ē-kha liû-giân kā guá kóng, to-siā!
 
 ## 揣字 Tshuē-jī
 
