@@ -347,3 +347,7 @@ Tsit ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 - [台語美聲/台灣媠聲/ Beautiful Taiwanese](https://ankiweb.net/shared/info/741273519)。
 - [臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)。
+
+:::warning
+如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://p.ecpay.com.tw/5256DCE)請我喝咖啡。
+:::
