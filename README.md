@@ -9,6 +9,12 @@
 
 Tsit ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuann, lí nā-ū kiàn-gī ê kàu-tsâi, huan-gîng tī ē-kha liû-giân kā guá kóng, to-siā!
 
+:::success
+📣 若是有寫毋著 ê 所在，請佇下跤留言抑是寫 email 共我講，多謝！
+
+✉️ 電子批: minsiansu@gmail.com
+:::
+
 ## 揣字 Tshuē-jī
 
 - [ChhoeTaigi 找台語](https://chhoe.taigi.info/)。
@@ -19,6 +25,7 @@ Tsit ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [白話字字數統計](http://ip194097.ntcu.edu.tw/nmtl/dadwt/count.htm)。
 - [白話字發音](http://ip194097.ntcu.edu.tw/tts/tts.asp)。
 - [臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/holodict_new/)。
+- [芋圓台語字典 Taro Dictionary](https://apps.apple.com/tw/app/%E8%8A%8B%E5%9C%93%E5%8F%B0%E8%AA%9E%E5%AD%97%E5%85%B8-taro-dictionary/id6477933002)
 - [部落格台語側欄](http://ip194097.ntcu.edu.tw/TG/CK/chhahkiann.asp)。
 
 ## 輸入法 Phah-jī-huat
@@ -347,7 +354,3 @@ Tsit ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 
 - [台語美聲/台灣媠聲/ Beautiful Taiwanese](https://ankiweb.net/shared/info/741273519)。
 - [臺灣閩南語推薦用字700字表](https://ankiweb.net/shared/info/1891161765)。
-
-:::warning
-如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://p.ecpay.com.tw/5256DCE)請我喝咖啡。
-:::
