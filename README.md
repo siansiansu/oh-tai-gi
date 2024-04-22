@@ -43,6 +43,7 @@ Tsit ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [NASA 逐工一幅天文圖 APOD Taigi](https://www.facebook.com/APOD.Taigi)。
 - [Tâi-gí Niau 台語貓](https://www.facebook.com/TaigiNiau)。
 - [Tâi-gí lāu-su 台語老蘇](https://www.facebook.com/TaigiLausu)。
+- [Tâigí STEM 台語科學教室](https://www.facebook.com/profile.php?id=100093530741823)
 - [coodychiu](https://www.facebook.com/coodychiu)。
 - [亞特聊聊天](https://www.facebook.com/atlantis.podcast.talk)。
 - [做伙來講台語、sńg kah 烏 mà-mà 好無？](https://www.facebook.com/OmamaTaioan228)。
