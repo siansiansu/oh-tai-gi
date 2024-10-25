@@ -259,6 +259,7 @@ Tsit ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuan
 - [魚夫的世界](https://open.spotify.com/show/1bbl94RlfIEAYh4sYOgQvt?si=89ce59148ce9419e)。
 - [黃越綏 《恁祖媽來了》](https://open.spotify.com/show/1bhbcJx6R3PqJYUsxLkMQ7?si=b6a5b3ceda6d4b78)。
 - [龜邸家 Good Job](https://open.spotify.com/show/6moGG2gBjXsRm8awcLSA7V?si=c055fed65eca4772)。
+- [隔壁 ê 戇人](https://open.spotify.com/show/020wt43KmaDfHtEuwMHosI?si=174ed5ddc8c14ecd&nd=1&dlsi=2496dca1320e4752)
 
 ## Twitter
 
